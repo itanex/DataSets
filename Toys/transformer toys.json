@@ -1,0 +1,6070 @@
+[
+    {
+        "name": "Bluestreak",
+        "numOfToys": "7",
+        "firstRelease": "1984"
+    },
+    {
+        "name": "Brawn",
+        "numOfToys": "8",
+        "firstRelease": "1984"
+    },
+    {
+        "name": "Bumblebee",
+        "numOfToys": "228",
+        "firstRelease": "1984"
+    },
+    {
+        "name": "Buzzsaw",
+        "numOfToys": "11",
+        "firstRelease": "1984"
+    },
+    {
+        "name": "Cliffjumper",
+        "numOfToys": "27",
+        "firstRelease": "1984"
+    },
+    {
+        "name": "Frenzy",
+        "numOfToys": "13",
+        "firstRelease": "1984"
+    },
+    {
+        "name": "Gears",
+        "numOfToys": "5",
+        "firstRelease": "1984"
+    },
+    {
+        "name": "Hound",
+        "numOfToys": "20",
+        "firstRelease": "1984"
+    },
+    {
+        "name": "Huffer",
+        "numOfToys": "7",
+        "firstRelease": "1984"
+    },
+    {
+        "name": "Ironhide",
+        "numOfToys": "56",
+        "firstRelease": "1984"
+    },
+    {
+        "name": "Jazz",
+        "numOfToys": "45",
+        "firstRelease": "1984"
+    },
+    {
+        "name": "Laserbeak",
+        "numOfToys": "11",
+        "firstRelease": "1984"
+    },
+    {
+        "name": "Megatron",
+        "numOfToys": "118",
+        "firstRelease": "1984"
+    },
+    {
+        "name": "Mirage",
+        "numOfToys": "27",
+        "firstRelease": "1984"
+    },
+    {
+        "name": "Optimus Prime",
+        "numOfToys": "255",
+        "firstRelease": "1984"
+    },
+    {
+        "name": "Prowl",
+        "numOfToys": "39",
+        "firstRelease": "1984"
+    },
+    {
+        "name": "Ratchet",
+        "numOfToys": "54",
+        "firstRelease": "1984"
+    },
+    {
+        "name": "Ravage",
+        "numOfToys": "19",
+        "firstRelease": "1984"
+    },
+    {
+        "name": "Rumble",
+        "numOfToys": "10",
+        "firstRelease": "1984"
+    },
+    {
+        "name": "Sideswipe",
+        "numOfToys": "64",
+        "firstRelease": "1984"
+    },
+    {
+        "name": ""
+    },
+    {
+        "name": "Skywarp",
+        "numOfToys": "20",
+        "firstRelease": "1984"
+    },
+    {
+        "name": "Soundwave",
+        "numOfToys": "48",
+        "firstRelease": "1984"
+    },
+    {
+        "name": "Starscream",
+        "numOfToys": "92",
+        "firstRelease": "1984"
+    },
+    {
+        "name": "Sunstreaker",
+        "numOfToys": "8",
+        "firstRelease": "1984"
+    },
+    {
+        "name": "Thundercracker",
+        "numOfToys": "28",
+        "firstRelease": "1984"
+    },
+    {
+        "name": "Trailbreaker",
+        "numOfToys": "3",
+        "firstRelease": "1984"
+    },
+    {
+        "name": "Wheeljack",
+        "numOfToys": "18",
+        "firstRelease": "1984"
+    },
+    {
+        "name": "Windcharger",
+        "numOfToys": "6",
+        "firstRelease": "1984"
+    },
+    {
+        "name": "Astrotrain",
+        "numOfToys": "6",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Barrage",
+        "numOfToys": "3",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Beachcomber",
+        "numOfToys": "7",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Blaster",
+        "numOfToys": "9",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Blitzwing",
+        "numOfToys": "7",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Bombshell",
+        "numOfToys": "5",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Bonecrusher",
+        "numOfToys": "17",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Chop Shop",
+        "numOfToys": "3",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Cosmos",
+        "numOfToys": "4",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Devastator",
+        "numOfToys": "33",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Dirge",
+        "numOfToys": "11",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Grapple",
+        "numOfToys": "4",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Grimlock",
+        "numOfToys": "67",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Hoist",
+        "numOfToys": "13",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Hook",
+        "numOfToys": "7",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Inferno",
+        "numOfToys": "16",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Jetfire",
+        "numOfToys": "25",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Kickback",
+        "numOfToys": "9",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Long Haul",
+        "numOfToys": "15",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Mixmaster",
+        "numOfToys": "10",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Omega Supreme",
+        "numOfToys": "4",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Perceptor",
+        "numOfToys": "12",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Powerglide",
+        "numOfToys": "11",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Ramjet",
+        "numOfToys": "16",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Ransack",
+        "numOfToys": "10",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Red Alert",
+        "numOfToys": "11",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Roadbuster",
+        "numOfToys": "12",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Scavenger",
+        "numOfToys": "14",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Scrapper",
+        "numOfToys": "8",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Seaspray",
+        "numOfToys": "4",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Shockwave",
+        "numOfToys": "24",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Shrapnel",
+        "numOfToys": "3",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Skids",
+        "numOfToys": "24",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Slag",
+        "numOfToys": "4",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Sludge",
+        "numOfToys": "2",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Smokescreen",
+        "numOfToys": "20",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Snarl",
+        "numOfToys": "17",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Swoop",
+        "numOfToys": "6",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Thrust",
+        "numOfToys": "17",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Topspin",
+        "numOfToys": "12",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Tracks",
+        "numOfToys": "8",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Twin Twist",
+        "numOfToys": "1",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Venom",
+        "numOfToys": "2",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Volks",
+        "numOfToys": "1",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Warpath",
+        "numOfToys": "6",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Whirl",
+        "numOfToys": "7",
+        "firstRelease": "1985"
+    },
+    {
+        "name": "Air Raid",
+        "numOfToys": "14",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Blades",
+        "numOfToys": "17",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Blast Off",
+        "numOfToys": "8",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Blurr",
+        "numOfToys": "13",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Brawl",
+        "numOfToys": "28",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Breakdown",
+        "numOfToys": "15",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Broadside",
+        "numOfToys": "5",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Bruticus",
+        "numOfToys": "8",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Cyclonus",
+        "numOfToys": "14",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Dead End",
+        "numOfToys": "18",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Defensor",
+        "numOfToys": "2",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Divebomb",
+        "numOfToys": "11",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Drag Strip",
+        "numOfToys": "5",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Eject",
+        "numOfToys": "3",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Fireflight",
+        "numOfToys": "6",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "First Aid",
+        "numOfToys": "7",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Full-Tilt",
+        "numOfToys": "1",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Galvatron",
+        "numOfToys": "26",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Gnaw",
+        "numOfToys": "3",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Groove",
+        "numOfToys": "8",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Headstrong",
+        "numOfToys": "2",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Hot Rod",
+        "numOfToys": "4",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Hot Spot",
+        "numOfToys": "8",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Hubcap",
+        "numOfToys": "4",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Kup",
+        "numOfToys": "8",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Menasor",
+        "numOfToys": "11",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Metroplex",
+        "numOfToys": "4",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Motormaster",
+        "numOfToys": "5",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Octane",
+        "numOfToys": "1",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Onshaught",
+        "numOfToys": "1",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Onslaught",
+        "numOfToys": "9",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Outback",
+        "numOfToys": "1",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Pipes",
+        "numOfToys": "2",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Ramhorn",
+        "numOfToys": "3",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Rampage",
+        "numOfToys": "12",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Ratbat",
+        "numOfToys": "6",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Razorclaw",
+        "numOfToys": "10",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Reflector",
+        "numOfToys": "3",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Rewind",
+        "numOfToys": "4",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Rodimus Prime",
+        "numOfToys": "5",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Runabout",
+        "numOfToys": "1",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Runamuck",
+        "numOfToys": "4",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Sandstorm",
+        "numOfToys": "8",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Scamper",
+        "numOfToys": "3",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Scourge",
+        "numOfToys": "17",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Silberbolt",
+        "numOfToys": "1",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Silverbolt",
+        "numOfToys": "16",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Six-Gun",
+        "numOfToys": "1",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Sky Lynx",
+        "numOfToys": "3",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Skydive",
+        "numOfToys": "12",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Slingshot",
+        "numOfToys": "3",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Springer",
+        "numOfToys": "10",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Steeljaw",
+        "numOfToys": "14",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Streetwise",
+        "numOfToys": "5",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Superion",
+        "numOfToys": "5",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Swerve",
+        "numOfToys": "9",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Swindle",
+        "numOfToys": "14",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Tailgate",
+        "numOfToys": "3",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Tantrum",
+        "numOfToys": "1",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Trypticon",
+        "numOfToys": "4",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Ultra Magnus",
+        "numOfToys": "28",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Vortex",
+        "numOfToys": "9",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Wheelie",
+        "numOfToys": "6",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Wildrider",
+        "numOfToys": "4",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Wreck-Gar",
+        "numOfToys": "7",
+        "firstRelease": "1986"
+    },
+    {
+        "name": "Abominus",
+        "numOfToys": "3",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Afterburner",
+        "numOfToys": "3",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Aimless",
+        "numOfToys": "1",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Apeface",
+        "numOfToys": "2",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Arcana",
+        "numOfToys": "1",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Battletrap",
+        "numOfToys": "2",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Blot",
+        "numOfToys": "1",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Blowpipe",
+        "numOfToys": "3",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Brainstorm",
+        "numOfToys": "4",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Caliburst",
+        "numOfToys": "2",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Cerebros",
+        "numOfToys": "3",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Chase",
+        "numOfToys": "11",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Chromedome",
+        "numOfToys": "3",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Cloudraker",
+        "numOfToys": "2",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Computron",
+        "numOfToys": "8",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Crosshairs",
+        "numOfToys": "10",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Cutthroat",
+        "numOfToys": "1",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Doublecross",
+        "numOfToys": "1",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Duros",
+        "numOfToys": "1",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Fastlane",
+        "numOfToys": "1",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Firebolt",
+        "numOfToys": "1",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Flywheels",
+        "numOfToys": "1",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Fortress Maximus",
+        "numOfToys": "3",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Fracas",
+        "numOfToys": "2",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Freeway",
+        "numOfToys": "1",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Goldbug",
+        "numOfToys": "2",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Gort",
+        "numOfToys": "1",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Grax",
+        "numOfToys": "2",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Grotesque",
+        "numOfToys": "1",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Hardhead",
+        "numOfToys": "3",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Haywire",
+        "numOfToys": "1",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Highbrow",
+        "numOfToys": "3",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Hun-Gurrr",
+        "numOfToys": "4",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Krunk",
+        "numOfToys": "1",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Lightspeed",
+        "numOfToys": "1",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Lord Zarak",
+        "numOfToys": "1",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Mindwipe",
+        "numOfToys": "3",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Misfire",
+        "numOfToys": "1",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Monzo",
+        "numOfToys": "1",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Nightstick",
+        "numOfToys": "3",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Nosecone",
+        "numOfToys": "3",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Overkill",
+        "numOfToys": "2",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Peacemaker",
+        "numOfToys": "1",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Pinpointer",
+        "numOfToys": "2",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Pointblank",
+        "numOfToys": "1",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Pounce",
+        "numOfToys": "1",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Punch-Counterpunch",
+        "numOfToys": "1",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Recoil",
+        "numOfToys": "1",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Repugnus",
+        "numOfToys": "5",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Rippersnapper",
+        "numOfToys": "2",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Rollbar",
+        "numOfToys": "11",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Scattershot (→ Scattorshot)",
+        "numOfToys": "4",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Scorponok",
+        "numOfToys": "14",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Searchlight",
+        "numOfToys": "2",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Sinnertwin",
+        "numOfToys": "2",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Sixshot",
+        "numOfToys": "2",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Skullcruncher",
+        "numOfToys": "1",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Slugfest",
+        "numOfToys": "1",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Slugslinger",
+        "numOfToys": "2",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Snapdragon",
+        "numOfToys": "1",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Spasma",
+        "numOfToys": "1",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Spike Witwicky",
+        "numOfToys": "1",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Spoilsport",
+        "numOfToys": "1",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Strafe",
+        "numOfToys": "20",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Stylor",
+        "numOfToys": "3",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Sureshot",
+        "numOfToys": "1",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Triggerhappy",
+        "numOfToys": "2",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Vorath",
+        "numOfToys": "2",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Weirdwolf",
+        "numOfToys": "2",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Wideload",
+        "numOfToys": "5",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Wingspan",
+        "numOfToys": "1",
+        "firstRelease": "1987"
+    },
+    {
+        "name": "Backstreet",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Beastbox",
+        "numOfToys": "4",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Bomb-burst",
+        "numOfToys": "2",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Boomer",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Brisko",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Bugly",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Carnivac",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Catilla",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Chainclaw",
+        "numOfToys": "2",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Cindersaur",
+        "numOfToys": "2",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Cloudburst",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Crankcase",
+        "numOfToys": "8",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Darkwing",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Dogfight",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Doubledealer",
+        "numOfToys": "2",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Dreadwind",
+        "numOfToys": "3",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Fangry",
+        "numOfToys": "2",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Finback",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Fizzle",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Flamefeather",
+        "numOfToys": "2",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Flintlock",
+        "numOfToys": "2",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Getaway",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Grand Slam",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Groundbreaker",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Gunrunner",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Guzzle",
+        "numOfToys": "3",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Hairsplitter",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Heater",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Hi-Test",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "HiQ",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Holepunch",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Horri-bull",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Hosehead",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Hotwire",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Iguanus",
+        "numOfToys": "3",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Joyride",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Knok",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Kreb",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Landfill",
+        "numOfToys": "2",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Landmine",
+        "numOfToys": "4",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Lokos",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Lube",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Lug",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Muzzle",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Nautilator",
+        "numOfToys": "6",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Needlenose",
+        "numOfToys": "2",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Nightbeat",
+        "numOfToys": "7",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Overbite",
+        "numOfToys": "8",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Override",
+        "numOfToys": "4",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Piranacon",
+        "numOfToys": "11",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Quake",
+        "numOfToys": "2",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Quickmix",
+        "numOfToys": "3",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Quickswitch",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Quig",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Raindance",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Rev",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Ricochet",
+        "numOfToys": "5",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Roadgrabber",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Ruckus",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Scoop",
+        "numOfToys": "2",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Seawing",
+        "numOfToys": "6",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Silencer",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Singe",
+        "numOfToys": "2",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Siren",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Sizzle",
+        "numOfToys": "3",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Skalor",
+        "numOfToys": "5",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Skar",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Skullgrin",
+        "numOfToys": "2",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Sky High",
+        "numOfToys": "3",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Slamdance",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Slapdash",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Snaptrap",
+        "numOfToys": "6",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Snarler",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Sparkstalker",
+        "numOfToys": "2",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Spinister",
+        "numOfToys": "6",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Splashdown",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Squawkbox",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Squawktalk",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Squeezeplay",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Submarauder",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Sunbeam",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Tentakil",
+        "numOfToys": "6",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Throttle",
+        "numOfToys": "2",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Tiptop",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Tracer",
+        "numOfToys": "2",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Waverider",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Windsweeper",
+        "numOfToys": "2",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Zigzag",
+        "numOfToys": "1",
+        "firstRelease": "1988"
+    },
+    {
+        "name": "Airwave",
+        "numOfToys": "1",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Big Shot",
+        "numOfToys": "1",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Birdbrain",
+        "numOfToys": "1",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Blackjack",
+        "numOfToys": "2",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Bludgeon",
+        "numOfToys": "10",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Bristleback",
+        "numOfToys": "1",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Countdown",
+        "numOfToys": "2",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Crossblades",
+        "numOfToys": "1",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Detour",
+        "numOfToys": "1",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Doubleheader",
+        "numOfToys": "1",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Erector",
+        "numOfToys": "1",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Fixit",
+        "numOfToys": "4",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Flak",
+        "numOfToys": "3",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Flattop",
+        "numOfToys": "1",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Free Wheeler",
+        "numOfToys": "1",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Greasepit",
+        "numOfToys": "1",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Groundshaker",
+        "numOfToys": "1",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Highjump",
+        "numOfToys": "1",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Hot House",
+        "numOfToys": "1",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Hyperdrive",
+        "numOfToys": "1",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Icepick",
+        "numOfToys": "4",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Ironworks",
+        "numOfToys": "1",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Longtooth",
+        "numOfToys": "1",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Monstructor",
+        "numOfToys": "6",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Mudslinger",
+        "numOfToys": "2",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Nightflight",
+        "numOfToys": "1",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Octopunch",
+        "numOfToys": "3",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Overload",
+        "numOfToys": "6",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Pincher",
+        "numOfToys": "1",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Powertrain",
+        "numOfToys": "1",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Red Hot",
+        "numOfToys": "1",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Road Hugger",
+        "numOfToys": "1",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Roadblock",
+        "numOfToys": "3",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Roadhammer",
+        "numOfToys": "1",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Roughstuff",
+        "numOfToys": "1",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Scowl",
+        "numOfToys": "1",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Seawatch",
+        "numOfToys": "1",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Sidetrack",
+        "numOfToys": "1",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Skyhammer",
+        "numOfToys": "4",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Skyhopper",
+        "numOfToys": "1",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Skystalker",
+        "numOfToys": "4",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Slog",
+        "numOfToys": "5",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Stakeout",
+        "numOfToys": "2",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Storm Cloud	(→ Stormcloud)",
+        "numOfToys": "1",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Stranglehold",
+        "numOfToys": "1",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Sunrunner",
+        "numOfToys": "1",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Swindler",
+        "numOfToys": "1",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Tailspin",
+        "numOfToys": "1",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Tailwind",
+        "numOfToys": "1",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Thunderwing",
+        "numOfToys": "6",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Tote",
+        "numOfToys": "1",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Vroom",
+        "numOfToys": "1",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Whisper",
+        "numOfToys": "2",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Wildfly",
+        "numOfToys": "1",
+        "firstRelease": "1989"
+    },
+    {
+        "name": "Attack Cruiser",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Axer",
+        "numOfToys": "2",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Banzai-Tron",
+        "numOfToys": "2",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Barricade",
+        "numOfToys": "31",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Big Daddy",
+        "numOfToys": "2",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Big Hauler",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Blackout",
+        "numOfToys": "18",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Blast Master",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Blaze Master	(→ Blazemaster)",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Bombshock",
+        "numOfToys": "3",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Catgut",
+        "numOfToys": "2",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Cement-Head",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Crumble",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Direct-Hit",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Dropshot",
+        "numOfToys": "2",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Eagle Eye",
+        "numOfToys": "2",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Excavator",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Fireshot",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Fistfight",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Flight Pack",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Full-Barrel",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Gatoraider",
+        "numOfToys": "2",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Glitch",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Greaser",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Grit",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Ground Hog",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Groundpounder",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Growl",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Gusher",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Gutcruncher",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Half-Track",
+        "numOfToys": "2",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Hammer",
+        "numOfToys": "5",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Heave",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Heavy Tread	(→ Heavytread)",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Heli-Pack",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Hubs",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Hydraulic",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Hydro-Pack",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Jackpot",
+        "numOfToys": "2",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Kick-Off",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Knockout (→ Knock Out)",
+        "numOfToys": "3",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Krok",
+        "numOfToys": "3",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Lionizer",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Mainframe",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Meltdown",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Missile Master",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Moonrock",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Motorhead",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Neutro",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Neutro-Fusion Tank",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Oiler",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Over-Run",
+        "numOfToys": "3",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Overflow",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Phaser",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Pipeline",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Power Punch",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Power Run",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Push-Button",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Rad",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Razor-Sharp",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Retro",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Roadburner",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Roller Force",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Rollout",
+        "numOfToys": "3",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Scorpulator",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Sights",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Skyfall",
+        "numOfToys": "2",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Sledge",
+        "numOfToys": "4",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Slide",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Slow Poke",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Spaceshot",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Sprocket",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Stonecruncher",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Stratotronic Jet",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Strikedown",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Surge",
+        "numOfToys": "2",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Takedown",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Terror-Tread",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Top-Heavy",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Treadshot",
+        "numOfToys": "6",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Tred Bolt",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Trip-Up",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Turbo Board",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Turbo Racer",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Turbo-Pack",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Tyrannitron",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Vanquish",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Wheel Blaze",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Wingthing",
+        "numOfToys": "1",
+        "firstRelease": "1990"
+    },
+    {
+        "name": "Basher",
+        "numOfToys": "1",
+        "firstRelease": "1991"
+    },
+    {
+        "name": "Charger",
+        "numOfToys": "1",
+        "firstRelease": "1991"
+    },
+    {
+        "name": "Circuit",
+        "numOfToys": "2",
+        "firstRelease": "1991"
+    },
+    {
+        "name": "Double Punch",
+        "numOfToys": "2",
+        "firstRelease": "1991"
+    },
+    {
+        "name": "Fire Beast",
+        "numOfToys": "1",
+        "firstRelease": "1991"
+    },
+    {
+        "name": "Needler",
+        "numOfToys": "1",
+        "firstRelease": "1991"
+    },
+    {
+        "name": "Omega Spreem",
+        "numOfToys": "1",
+        "firstRelease": "1991"
+    },
+    {
+        "name": "Powerflash",
+        "numOfToys": "1",
+        "firstRelease": "1991"
+    },
+    {
+        "name": "Road Rocket",
+        "numOfToys": "2",
+        "firstRelease": "1991"
+    },
+    {
+        "name": "Rumbler",
+        "numOfToys": "1",
+        "firstRelease": "1991"
+    },
+    {
+        "name": "Screech",
+        "numOfToys": "1",
+        "firstRelease": "1991"
+    },
+    {
+        "name": "Slicer",
+        "numOfToys": "1",
+        "firstRelease": "1991"
+    },
+    {
+        "name": "Take-Off",
+        "numOfToys": "1",
+        "firstRelease": "1991"
+    },
+    {
+        "name": "Turbo Master",
+        "numOfToys": "1",
+        "firstRelease": "1991"
+    },
+    {
+        "name": "Vanguard",
+        "numOfToys": "1",
+        "firstRelease": "1991"
+    },
+    {
+        "name": "Windmill",
+        "numOfToys": "1",
+        "firstRelease": "1991"
+    },
+    {
+        "name": "Boss",
+        "numOfToys": "1",
+        "firstRelease": "1992"
+    },
+    {
+        "name": "Falcon",
+        "numOfToys": "1",
+        "firstRelease": "1992"
+    },
+    {
+        "name": "Flash",
+        "numOfToys": "1",
+        "firstRelease": "1992"
+    },
+    {
+        "name": "Hurricane",
+        "numOfToys": "1",
+        "firstRelease": "1992"
+    },
+    {
+        "name": "Rescue Force",
+        "numOfToys": "4",
+        "firstRelease": "1992"
+    },
+    {
+        "name": "Rotorstorm",
+        "numOfToys": "1",
+        "firstRelease": "1992"
+    },
+    {
+        "name": "Scorch",
+        "numOfToys": "2",
+        "firstRelease": "1992"
+    },
+    {
+        "name": "Skyquake",
+        "numOfToys": "6",
+        "firstRelease": "1992"
+    },
+    {
+        "name": "Snare",
+        "numOfToys": "1",
+        "firstRelease": "1992"
+    },
+    {
+        "name": "Stalker",
+        "numOfToys": "1",
+        "firstRelease": "1992"
+    },
+    {
+        "name": "Talon",
+        "numOfToys": "1",
+        "firstRelease": "1992"
+    },
+    {
+        "name": "Thunderclash",
+        "numOfToys": "4",
+        "firstRelease": "1992"
+    },
+    {
+        "name": "Aquablast",
+        "numOfToys": "1",
+        "firstRelease": "1993"
+    },
+    {
+        "name": "Aquafend",
+        "numOfToys": "1",
+        "firstRelease": "1993"
+    },
+    {
+        "name": "Calcar",
+        "numOfToys": "1",
+        "firstRelease": "1993"
+    },
+    {
+        "name": "Clench",
+        "numOfToys": "3",
+        "firstRelease": "1993"
+    },
+    {
+        "name": "Deftwing",
+        "numOfToys": "1",
+        "firstRelease": "1993"
+    },
+    {
+        "name": "Deluge",
+        "numOfToys": "2",
+        "firstRelease": "1993"
+    },
+    {
+        "name": "Drench",
+        "numOfToys": "2",
+        "firstRelease": "1993"
+    },
+    {
+        "name": "Fearswoop",
+        "numOfToys": "2",
+        "firstRelease": "1993"
+    },
+    {
+        "name": "Gobots",
+        "numOfToys": "1",
+        "firstRelease": "1993"
+    },
+    {
+        "name": "Hydradread",
+        "numOfToys": "1",
+        "firstRelease": "1993"
+    },
+    {
+        "name": "Ironfist",
+        "numOfToys": "1",
+        "firstRelease": "1993"
+    },
+    {
+        "name": "Jetstorm",
+        "numOfToys": "12",
+        "firstRelease": "1993"
+    },
+    {
+        "name": "Pyro",
+        "numOfToys": "1",
+        "firstRelease": "1993"
+    },
+    {
+        "name": "Rage",
+        "numOfToys": "1",
+        "firstRelease": "1993"
+    },
+    {
+        "name": "Rapido",
+        "numOfToys": "2",
+        "firstRelease": "1993"
+    },
+    {
+        "name": "Skram",
+        "numOfToys": "1",
+        "firstRelease": "1993"
+    },
+    {
+        "name": "Speedstream",
+        "numOfToys": "1",
+        "firstRelease": "1993"
+    },
+    {
+        "name": "Terradive",
+        "numOfToys": "7",
+        "firstRelease": "1993"
+    },
+    {
+        "name": "Turbofire",
+        "numOfToys": "1",
+        "firstRelease": "1993"
+    },
+    {
+        "name": "Windbreaker",
+        "numOfToys": "1",
+        "firstRelease": "1993"
+    },
+    {
+        "name": "Windrazor",
+        "numOfToys": "7",
+        "firstRelease": "1993"
+    },
+    {
+        "name": "Blaze",
+        "numOfToys": "1",
+        "firstRelease": "1994"
+    },
+    {
+        "name": "Dragstrip (→ Drag Strip)",
+        "numOfToys": "6",
+        "firstRelease": "1994"
+    },
+    {
+        "name": "Dreadwing",
+        "numOfToys": "9",
+        "firstRelease": "1994"
+    },
+    {
+        "name": "Electro",
+        "numOfToys": "2",
+        "firstRelease": "1994"
+    },
+    {
+        "name": "Jolt",
+        "numOfToys": "15",
+        "firstRelease": "1994"
+    },
+    {
+        "name": "Leadfoot",
+        "numOfToys": "8",
+        "firstRelease": "1994"
+    },
+    {
+        "name": "Manta Ray",
+        "numOfToys": "1",
+        "firstRelease": "1994"
+    },
+    {
+        "name": "Powerdive",
+        "numOfToys": "2",
+        "firstRelease": "1994"
+    },
+    {
+        "name": "Volt",
+        "numOfToys": "1",
+        "firstRelease": "1994"
+    },
+    {
+        "name": "Blowout",
+        "numOfToys": "1",
+        "firstRelease": "1995"
+    },
+    {
+        "name": "Bulletbike",
+        "numOfToys": "1",
+        "firstRelease": "1995"
+    },
+    {
+        "name": "Dirtbag",
+        "numOfToys": "1",
+        "firstRelease": "1995"
+    },
+    {
+        "name": "Double Clutch",
+        "numOfToys": "2",
+        "firstRelease": "1995"
+    },
+    {
+        "name": "Firecracker",
+        "numOfToys": "1",
+        "firstRelease": "1995"
+    },
+    {
+        "name": "Gearhead",
+        "numOfToys": "1",
+        "firstRelease": "1995"
+    },
+    {
+        "name": "High Beam",
+        "numOfToys": "1",
+        "firstRelease": "1995"
+    },
+    {
+        "name": "Hooligan",
+        "numOfToys": "1",
+        "firstRelease": "1995"
+    },
+    {
+        "name": "Meanstreak",
+        "numOfToys": "1",
+        "firstRelease": "1995"
+    },
+    {
+        "name": "Motormouth",
+        "numOfToys": "1",
+        "firstRelease": "1995"
+    },
+    {
+        "name": "Nightracer",
+        "numOfToys": "2",
+        "firstRelease": "1995"
+    },
+    {
+        "name": "Road Pig",
+        "numOfToys": "1",
+        "firstRelease": "1995"
+    },
+    {
+        "name": "Skyjack",
+        "numOfToys": "1",
+        "firstRelease": "1995"
+    },
+    {
+        "name": "Space Case",
+        "numOfToys": "3",
+        "firstRelease": "1995"
+    },
+    {
+        "name": "Staxx",
+        "numOfToys": "1",
+        "firstRelease": "1995"
+    },
+    {
+        "name": "Arachnid",
+        "numOfToys": "1",
+        "firstRelease": "1996"
+    },
+    {
+        "name": "Armordillo",
+        "numOfToys": "1",
+        "firstRelease": "1996"
+    },
+    {
+        "name": "Blackarachnia",
+        "numOfToys": "6",
+        "firstRelease": "1996"
+    },
+    {
+        "name": "Buzz Saw	(→ Buzzsaw)",
+        "numOfToys": "1",
+        "firstRelease": "1996"
+    },
+    {
+        "name": "Cheetor",
+        "numOfToys": "19",
+        "firstRelease": "1996"
+    },
+    {
+        "name": "Dinobot",
+        "numOfToys": "6",
+        "firstRelease": "1996"
+    },
+    {
+        "name": "Insecticon",
+        "numOfToys": "6",
+        "firstRelease": "1996"
+    },
+    {
+        "name": "Onyx Primal",
+        "numOfToys": "1",
+        "firstRelease": "1996"
+    },
+    {
+        "name": "Optimus Primal",
+        "numOfToys": "15",
+        "firstRelease": "1996"
+    },
+    {
+        "name": "Orchanoch",
+        "numOfToys": "1",
+        "firstRelease": "1996"
+    },
+    {
+        "name": "Polar Claw",
+        "numOfToys": "1",
+        "firstRelease": "1996"
+    },
+    {
+        "name": "Rattrap",
+        "numOfToys": "9",
+        "firstRelease": "1996"
+    },
+    {
+        "name": "Razorbeast",
+        "numOfToys": "1",
+        "firstRelease": "1996"
+    },
+    {
+        "name": "Rhinox",
+        "numOfToys": "10",
+        "firstRelease": "1996"
+    },
+    {
+        "name": "Snapper",
+        "numOfToys": "1",
+        "firstRelease": "1996"
+    },
+    {
+        "name": "Tarantulas",
+        "numOfToys": "6",
+        "firstRelease": "1996"
+    },
+    {
+        "name": "Terrorsaur",
+        "numOfToys": "5",
+        "firstRelease": "1996"
+    },
+    {
+        "name": "Tigatron",
+        "numOfToys": "4",
+        "firstRelease": "1996"
+    },
+    {
+        "name": "Waspinator",
+        "numOfToys": "12",
+        "firstRelease": "1996"
+    },
+    {
+        "name": "Wolfang",
+        "numOfToys": "1",
+        "firstRelease": "1996"
+    },
+    {
+        "name": "Airazor",
+        "numOfToys": "8",
+        "firstRelease": "1997"
+    },
+    {
+        "name": "B'Boom",
+        "numOfToys": "1",
+        "firstRelease": "1997"
+    },
+    {
+        "name": "Cicadacon",
+        "numOfToys": "2",
+        "firstRelease": "1997"
+    },
+    {
+        "name": "Claw Jaw",
+        "numOfToys": "2",
+        "firstRelease": "1997"
+    },
+    {
+        "name": "Cybershark",
+        "numOfToys": "2",
+        "firstRelease": "1997"
+    },
+    {
+        "name": "Drill Bit (→ Drillbit)",
+        "numOfToys": "5",
+        "firstRelease": "1997"
+    },
+    {
+        "name": "Fractyl",
+        "numOfToys": "1",
+        "firstRelease": "1997"
+    },
+    {
+        "name": "K-9",
+        "numOfToys": "1",
+        "firstRelease": "1997"
+    },
+    {
+        "name": "Lazorbeak	(→ Laserbeak)",
+        "numOfToys": "1",
+        "firstRelease": "1997"
+    },
+    {
+        "name": "Magnaboss",
+        "numOfToys": "2",
+        "firstRelease": "1997"
+    },
+    {
+        "name": "Manterror",
+        "numOfToys": "1",
+        "firstRelease": "1997"
+    },
+    {
+        "name": "Megaplex",
+        "numOfToys": "2",
+        "firstRelease": "1997"
+    },
+    {
+        "name": "Packrat",
+        "numOfToys": "2",
+        "firstRelease": "1997"
+    },
+    {
+        "name": "Powerpinch",
+        "numOfToys": "1",
+        "firstRelease": "1997"
+    },
+    {
+        "name": "Ram Horn",
+        "numOfToys": "1",
+        "firstRelease": "1997"
+    },
+    {
+        "name": "Retrax",
+        "numOfToys": "1",
+        "firstRelease": "1997"
+    },
+    {
+        "name": "Sea Clamp",
+        "numOfToys": "1",
+        "firstRelease": "1997"
+    },
+    {
+        "name": "Spittor",
+        "numOfToys": "3",
+        "firstRelease": "1997"
+    },
+    {
+        "name": "Transquito",
+        "numOfToys": "1",
+        "firstRelease": "1997"
+    },
+    {
+        "name": "Tripredacus",
+        "numOfToys": "2",
+        "firstRelease": "1997"
+    },
+    {
+        "name": "Air Hammer",
+        "numOfToys": "1",
+        "firstRelease": "1998"
+    },
+    {
+        "name": "Antagony",
+        "numOfToys": "1",
+        "firstRelease": "1998"
+    },
+    {
+        "name": "Bantor",
+        "numOfToys": "1",
+        "firstRelease": "1998"
+    },
+    {
+        "name": "Buzzclaw",
+        "numOfToys": "2",
+        "firstRelease": "1998"
+    },
+    {
+        "name": "Depth Charge (→ Depthcharge)",
+        "numOfToys": "2",
+        "firstRelease": "1998"
+    },
+    {
+        "name": "Grizzly-1",
+        "numOfToys": "1",
+        "firstRelease": "1998"
+    },
+    {
+        "name": "Injector",
+        "numOfToys": "1",
+        "firstRelease": "1998"
+    },
+    {
+        "name": "Noctorro",
+        "numOfToys": "1",
+        "firstRelease": "1998"
+    },
+    {
+        "name": "Optimal Optimus",
+        "numOfToys": "2",
+        "firstRelease": "1998"
+    },
+    {
+        "name": "Quickstrike",
+        "numOfToys": "3",
+        "firstRelease": "1998"
+    },
+    {
+        "name": "Sky Shadow",
+        "numOfToys": "5",
+        "firstRelease": "1998"
+    },
+    {
+        "name": "Terragator",
+        "numOfToys": "1",
+        "firstRelease": "1998"
+    },
+    {
+        "name": "Torca",
+        "numOfToys": "1",
+        "firstRelease": "1998"
+    },
+    {
+        "name": "Vice Grip",
+        "numOfToys": "1",
+        "firstRelease": "1998"
+    },
+    {
+        "name": "Jawbreaker",
+        "numOfToys": "1",
+        "firstRelease": "1999"
+    },
+    {
+        "name": "Nightglider",
+        "numOfToys": "1",
+        "firstRelease": "1999"
+    },
+    {
+        "name": "Optimus Minor",
+        "numOfToys": "1",
+        "firstRelease": "1999"
+    },
+    {
+        "name": "Ramulus",
+        "numOfToys": "1",
+        "firstRelease": "1999"
+    },
+    {
+        "name": "Scarem",
+        "numOfToys": "1",
+        "firstRelease": "1999"
+    },
+    {
+        "name": "Sonar",
+        "numOfToys": "4",
+        "firstRelease": "1999"
+    },
+    {
+        "name": "Stinkbomb",
+        "numOfToys": "1",
+        "firstRelease": "1999"
+    },
+    {
+        "name": "Tigerhawk",
+        "numOfToys": "1",
+        "firstRelease": "1999"
+    },
+    {
+        "name": "Airraptor",
+        "numOfToys": "1",
+        "firstRelease": "2000"
+    },
+    {
+        "name": "Apelinq",
+        "numOfToys": "2",
+        "firstRelease": "2000"
+    },
+    {
+        "name": "Blastcharge",
+        "numOfToys": "3",
+        "firstRelease": "2000"
+    },
+    {
+        "name": "Che",
+        "numOfToys": "2",
+        "firstRelease": "2000"
+    },
+    {
+        "name": "Dillo",
+        "numOfToys": "2",
+        "firstRelease": "2000"
+    },
+    {
+        "name": "Dinotron",
+        "numOfToys": "1",
+        "firstRelease": "2000"
+    },
+    {
+        "name": "Geckobot",
+        "numOfToys": "1",
+        "firstRelease": "2000"
+    },
+    {
+        "name": "Icebird",
+        "numOfToys": "1",
+        "firstRelease": "2000"
+    },
+    {
+        "name": "Longhorn",
+        "numOfToys": "2",
+        "firstRelease": "2000"
+    },
+    {
+        "name": "Magmatron",
+        "numOfToys": "1",
+        "firstRelease": "2000"
+    },
+    {
+        "name": "Mechatron",
+        "numOfToys": "2",
+        "firstRelease": "2000"
+    },
+    {
+        "name": "Mol",
+        "numOfToys": "2",
+        "firstRelease": "2000"
+    },
+    {
+        "name": "Night Viper",
+        "numOfToys": "1",
+        "firstRelease": "2000"
+    },
+    {
+        "name": "Nightscream",
+        "numOfToys": "5",
+        "firstRelease": "2000"
+    },
+    {
+        "name": "Obsidian",
+        "numOfToys": "5",
+        "firstRelease": "2000"
+    },
+    {
+        "name": "Poison Bite",
+        "numOfToys": "1",
+        "firstRelease": "2000"
+    },
+    {
+        "name": "Primal Prime",
+        "numOfToys": "2",
+        "firstRelease": "2000"
+    },
+    {
+        "name": "Rav/Cro",
+        "numOfToys": "1",
+        "firstRelease": "2000"
+    },
+    {
+        "name": "Razor Claw	(→ Razorclaw)",
+        "numOfToys": "1",
+        "firstRelease": "2000"
+    },
+    {
+        "name": "Shokaract",
+        "numOfToys": "1",
+        "firstRelease": "2000"
+    },
+    {
+        "name": "Striker",
+        "numOfToys": "2",
+        "firstRelease": "2000"
+    },
+    {
+        "name": "T-Wrecks",
+        "numOfToys": "1",
+        "firstRelease": "2000"
+    },
+    {
+        "name": "Tankor",
+        "numOfToys": "9",
+        "firstRelease": "2000"
+    },
+    {
+        "name": "Triceradon",
+        "numOfToys": "3",
+        "firstRelease": "2000"
+    },
+    {
+        "name": "Arcee",
+        "numOfToys": "25",
+        "firstRelease": "2001"
+    },
+    {
+        "name": "Armorhide",
+        "numOfToys": "7",
+        "firstRelease": "2001"
+    },
+    {
+        "name": "Battle Unicorn",
+        "numOfToys": "1",
+        "firstRelease": "2001"
+    },
+    {
+        "name": "Beast Changer",
+        "numOfToys": "1",
+        "firstRelease": "2001"
+    },
+    {
+        "name": "Crosswise",
+        "numOfToys": "3",
+        "firstRelease": "2001"
+    },
+    {
+        "name": "Dark Scream",
+        "numOfToys": "1",
+        "firstRelease": "2001"
+    },
+    {
+        "name": "Daytonus",
+        "numOfToys": "1",
+        "firstRelease": "2001"
+    },
+    {
+        "name": "Gas Skunk",
+        "numOfToys": "1",
+        "firstRelease": "2001"
+    },
+    {
+        "name": "Hammerstrike",
+        "numOfToys": "2",
+        "firstRelease": "2001"
+    },
+    {
+        "name": "Heavy Load",
+        "numOfToys": "4",
+        "firstRelease": "2001"
+    },
+    {
+        "name": "Hightower",
+        "numOfToys": "5",
+        "firstRelease": "2001"
+    },
+    {
+        "name": "Hot Shot",
+        "numOfToys": "13",
+        "firstRelease": "2001"
+    },
+    {
+        "name": "Mega-Octane",
+        "numOfToys": "3",
+        "firstRelease": "2001"
+    },
+    {
+        "name": "Midnight Express",
+        "numOfToys": "2",
+        "firstRelease": "2001"
+    },
+    {
+        "name": "Motorcycle Drone",
+        "numOfToys": "1",
+        "firstRelease": "2001"
+    },
+    {
+        "name": "Movor",
+        "numOfToys": "3",
+        "firstRelease": "2001"
+    },
+    {
+        "name": "Noble-Savage",
+        "numOfToys": "1",
+        "firstRelease": "2001"
+    },
+    {
+        "name": "R.E.V.",
+        "numOfToys": "1",
+        "firstRelease": "2001"
+    },
+    {
+        "name": "Railspike",
+        "numOfToys": "2",
+        "firstRelease": "2001"
+    },
+    {
+        "name": "Rapid Run",
+        "numOfToys": "3",
+        "firstRelease": "2001"
+    },
+    {
+        "name": "Rapticon",
+        "numOfToys": "1",
+        "firstRelease": "2001"
+    },
+    {
+        "name": "Rav",
+        "numOfToys": "1",
+        "firstRelease": "2001"
+    },
+    {
+        "name": "Rescue Roy",
+        "numOfToys": "1",
+        "firstRelease": "2001"
+    },
+    {
+        "name": "Ro-tor",
+        "numOfToys": "4",
+        "firstRelease": "2001"
+    },
+    {
+        "name": "Side Burn (→ Sideburn)",
+        "numOfToys": "5",
+        "firstRelease": "2001"
+    },
+    {
+        "name": "Skid-Z",
+        "numOfToys": "2",
+        "firstRelease": "2001"
+    },
+    {
+        "name": "Sky-Byte",
+        "numOfToys": "2",
+        "firstRelease": "2001"
+    },
+    {
+        "name": "Skyfire	(→ Jetfire)",
+        "numOfToys": "1",
+        "firstRelease": "2001"
+    },
+    {
+        "name": "Slapper",
+        "numOfToys": "2",
+        "firstRelease": "2001"
+    },
+    {
+        "name": "Spy Streak",
+        "numOfToys": "1",
+        "firstRelease": "2001"
+    },
+    {
+        "name": "Strika",
+        "numOfToys": "3",
+        "firstRelease": "2001"
+    },
+    {
+        "name": "Tank Drone",
+        "numOfToys": "1",
+        "firstRelease": "2001"
+    },
+    {
+        "name": "Terranotron",
+        "numOfToys": "1",
+        "firstRelease": "2001"
+    },
+    {
+        "name": "Tow-Line",
+        "numOfToys": "2",
+        "firstRelease": "2001"
+    },
+    {
+        "name": "Tripredacus Agent",
+        "numOfToys": "1",
+        "firstRelease": "2001"
+    },
+    {
+        "name": "W.A.R.S.",
+        "numOfToys": "1",
+        "firstRelease": "2001"
+    },
+    {
+        "name": "Wedge",
+        "numOfToys": "2",
+        "firstRelease": "2001"
+    },
+    {
+        "name": "Wind Sheer",
+        "numOfToys": "3",
+        "firstRelease": "2001"
+    },
+    {
+        "name": "X-Brawn",
+        "numOfToys": "3",
+        "firstRelease": "2001"
+    },
+    {
+        "name": "Aerobot",
+        "numOfToys": "1",
+        "firstRelease": "2002"
+    },
+    {
+        "name": "Airlift Andy",
+        "numOfToys": "1",
+        "firstRelease": "2002"
+    },
+    {
+        "name": "Astroscope",
+        "numOfToys": "2",
+        "firstRelease": "2002"
+    },
+    {
+        "name": "Backtrack",
+        "numOfToys": "4",
+        "firstRelease": "2002"
+    },
+    {
+        "name": "CatSCAN",
+        "numOfToys": "1",
+        "firstRelease": "2002"
+    },
+    {
+        "name": "Charlie Chopper",
+        "numOfToys": "1",
+        "firstRelease": "2002"
+    },
+    {
+        "name": "Crumplezone",
+        "numOfToys": "7",
+        "firstRelease": "2002"
+    },
+    {
+        "name": "Cryotek",
+        "numOfToys": "1",
+        "firstRelease": "2002"
+    },
+    {
+        "name": "Demolishor",
+        "numOfToys": "9",
+        "firstRelease": "2002"
+    },
+    {
+        "name": "Dirt Boss",
+        "numOfToys": "7",
+        "firstRelease": "2002"
+    },
+    {
+        "name": "Downshift",
+        "numOfToys": "9",
+        "firstRelease": "2002"
+    },
+    {
+        "name": "Dualor",
+        "numOfToys": "3",
+        "firstRelease": "2002"
+    },
+    {
+        "name": "Fire Marshal Mike",
+        "numOfToys": "1",
+        "firstRelease": "2002"
+    },
+    {
+        "name": "Forklift",
+        "numOfToys": "1",
+        "firstRelease": "2002"
+    },
+    {
+        "name": "Glyph",
+        "numOfToys": "1",
+        "firstRelease": "2002"
+    },
+    {
+        "name": "Gorillabot",
+        "numOfToys": "1",
+        "firstRelease": "2002"
+    },
+    {
+        "name": "Grindor",
+        "numOfToys": "8",
+        "firstRelease": "2002"
+    },
+    {
+        "name": "High Wire",
+        "numOfToys": "5",
+        "firstRelease": "2002"
+    },
+    {
+        "name": "Knock Out",
+        "numOfToys": "8",
+        "firstRelease": "2002"
+    },
+    {
+        "name": "Leader-1",
+        "numOfToys": "1",
+        "firstRelease": "2002"
+    },
+    {
+        "name": "Longarm",
+        "numOfToys": "8",
+        "firstRelease": "2002"
+    },
+    {
+        "name": "Mototron",
+        "numOfToys": "2",
+        "firstRelease": "2002"
+    },
+    {
+        "name": "Nightcruz",
+        "numOfToys": "2",
+        "firstRelease": "2002"
+    },
+    {
+        "name": "Oval",
+        "numOfToys": "2",
+        "firstRelease": "2002"
+    },
+    {
+        "name": "Payload",
+        "numOfToys": "5",
+        "firstRelease": "2002"
+    },
+    {
+        "name": "Policeman Pete",
+        "numOfToys": "1",
+        "firstRelease": "2002"
+    },
+    {
+        "name": "Rodimus Major	(→ Hot Rod)",
+        "numOfToys": "1",
+        "firstRelease": "2002"
+    },
+    {
+        "name": "Rook",
+        "numOfToys": "3",
+        "firstRelease": "2002"
+    },
+    {
+        "name": "Runway",
+        "numOfToys": "3",
+        "firstRelease": "2002"
+    },
+    {
+        "name": "Sideways",
+        "numOfToys": "12",
+        "firstRelease": "2002"
+    },
+    {
+        "name": "Sky Blast (→ Skyblast)",
+        "numOfToys": "2",
+        "firstRelease": "2002"
+    },
+    {
+        "name": "Sparkplug",
+        "numOfToys": "4",
+        "firstRelease": "2002"
+    },
+    {
+        "name": "Speed-Bot",
+        "numOfToys": "9",
+        "firstRelease": "2002"
+    },
+    {
+        "name": "Spiral",
+        "numOfToys": "2",
+        "firstRelease": "2002"
+    },
+    {
+        "name": "Storm Jet",
+        "numOfToys": "4",
+        "firstRelease": "2002"
+    },
+    {
+        "name": "Sureshock",
+        "numOfToys": "3",
+        "firstRelease": "2002"
+    },
+    {
+        "name": "Tap-Out",
+        "numOfToys": "1",
+        "firstRelease": "2002"
+    },
+    {
+        "name": "Unicron",
+        "numOfToys": "10",
+        "firstRelease": "2002"
+    },
+    {
+        "name": "Wreckage",
+        "numOfToys": "4",
+        "firstRelease": "2002"
+    },
+    {
+        "name": "Aero-Bot",
+        "numOfToys": "5",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Beast-Bot",
+        "numOfToys": "2",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Beast-Bot II",
+        "numOfToys": "1",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Buzzer-Bot",
+        "numOfToys": "4",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Comettor",
+        "numOfToys": "4",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Cop-Bot",
+        "numOfToys": "2",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Darksaber",
+        "numOfToys": "1",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Depthcharge",
+        "numOfToys": "2",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Dino-Bot",
+        "numOfToys": "1",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Doggie",
+        "numOfToys": "1",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Dune Runner",
+        "numOfToys": "4",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Fetch",
+        "numOfToys": "2",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Fire-Bot",
+        "numOfToys": "2",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Firebot",
+        "numOfToys": "4",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Flash-Bot",
+        "numOfToys": "1",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Gas-Bot",
+        "numOfToys": "5",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Gunbarrel",
+        "numOfToys": "3",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Hauler-Bot",
+        "numOfToys": "1",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Iceberg",
+        "numOfToys": "4",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Incinerator",
+        "numOfToys": "2",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Jhiaxus",
+        "numOfToys": "2",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Kid-Bot",
+        "numOfToys": "6",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Makeshift",
+        "numOfToys": "4",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Megabolt",
+        "numOfToys": "1",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Nemesis Prime",
+        "numOfToys": "7",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Oceanglide",
+        "numOfToys": "3",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Overrun",
+        "numOfToys": "1",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Predacon",
+        "numOfToys": "1",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Refute",
+        "numOfToys": "1",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Reptilion",
+        "numOfToys": "1",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Reptron",
+        "numOfToys": "3",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Roulette",
+        "numOfToys": "1",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Ruination",
+        "numOfToys": "2",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Run-Over",
+        "numOfToys": "1",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Scattor",
+        "numOfToys": "4",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Scrap-Bot",
+        "numOfToys": "1",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Shadow Striker",
+        "numOfToys": "2",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Sideburn",
+        "numOfToys": "1",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Silver-Bot",
+        "numOfToys": "2",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Silverstreak (→ Bluestreak)",
+        "numOfToys": "6",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Smokejumper",
+        "numOfToys": "1",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Starsaber",
+        "numOfToys": "1",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Stormcloud",
+        "numOfToys": "5",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Strong-Bot",
+        "numOfToys": "6",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Tidal Wave",
+        "numOfToys": "2",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Tigertron",
+        "numOfToys": "1",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Waterlog",
+        "numOfToys": "4",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Zapmaster",
+        "numOfToys": "2",
+        "firstRelease": "2003"
+    },
+    {
+        "name": "Ape-Linq",
+        "numOfToys": "1",
+        "firstRelease": "2004"
+    },
+    {
+        "name": "Buckethead",
+        "numOfToys": "1",
+        "firstRelease": "2004"
+    },
+    {
+        "name": "Bulkhead",
+        "numOfToys": "17",
+        "firstRelease": "2004"
+    },
+    {
+        "name": "Caliburn",
+        "numOfToys": "1",
+        "firstRelease": "2004"
+    },
+    {
+        "name": "Checkpoint",
+        "numOfToys": "2",
+        "firstRelease": "2004"
+    },
+    {
+        "name": "Cruellock",
+        "numOfToys": "2",
+        "firstRelease": "2004"
+    },
+    {
+        "name": "Crystal Widow",
+        "numOfToys": "1",
+        "firstRelease": "2004"
+    },
+    {
+        "name": "Doom-Lock",
+        "numOfToys": "2",
+        "firstRelease": "2004"
+    },
+    {
+        "name": "Energon Blaster",
+        "numOfToys": "1",
+        "firstRelease": "2004"
+    },
+    {
+        "name": "Energon Sword",
+        "numOfToys": "1",
+        "firstRelease": "2004"
+    },
+    {
+        "name": "King Atlas",
+        "numOfToys": "1",
+        "firstRelease": "2004"
+    },
+    {
+        "name": "Magna Stampede",
+        "numOfToys": "1",
+        "firstRelease": "2004"
+    },
+    {
+        "name": "Megazarak",
+        "numOfToys": "1",
+        "firstRelease": "2004"
+    },
+    {
+        "name": "Meister (→ Jazz)",
+        "numOfToys": "2",
+        "firstRelease": "2004"
+    },
+    {
+        "name": "Offshoot",
+        "numOfToys": "2",
+        "firstRelease": "2004"
+    },
+    {
+        "name": "Oil Slick",
+        "numOfToys": "3",
+        "firstRelease": "2004"
+    },
+    {
+        "name": "Preditron",
+        "numOfToys": "1",
+        "firstRelease": "2004"
+    },
+    {
+        "name": "Racer-Bot",
+        "numOfToys": "3",
+        "firstRelease": "2004"
+    },
+    {
+        "name": "Roadhandler",
+        "numOfToys": "1",
+        "firstRelease": "2004"
+    },
+    {
+        "name": "Rodimus (→ Rodimus Prime)",
+        "numOfToys": "13",
+        "firstRelease": "2004"
+    },
+    {
+        "name": "Sentinel Maximus",
+        "numOfToys": "1",
+        "firstRelease": "2004"
+    },
+    {
+        "name": "Sharkticon",
+        "numOfToys": "6",
+        "firstRelease": "2004"
+    },
+    {
+        "name": "Shockblast (→ Shockwave)",
+        "numOfToys": "2",
+        "firstRelease": "2004"
+    },
+    {
+        "name": "Signal Flare",
+        "numOfToys": "3",
+        "firstRelease": "2004"
+    },
+    {
+        "name": "Skyblast",
+        "numOfToys": "2",
+        "firstRelease": "2004"
+    },
+    {
+        "name": "Skyboom",
+        "numOfToys": "2",
+        "firstRelease": "2004"
+    },
+    {
+        "name": "Snow Cat",
+        "numOfToys": "2",
+        "firstRelease": "2004"
+    },
+    {
+        "name": "Stockade",
+        "numOfToys": "2",
+        "firstRelease": "2004"
+    },
+    {
+        "name": "Strongarm",
+        "numOfToys": "17",
+        "firstRelease": "2004"
+    },
+    {
+        "name": "Sunstorm",
+        "numOfToys": "9",
+        "firstRelease": "2004"
+    },
+    {
+        "name": "Taxi-Bot",
+        "numOfToys": "1",
+        "firstRelease": "2004"
+    },
+    {
+        "name": "Treadbolt",
+        "numOfToys": "2",
+        "firstRelease": "2004"
+    },
+    {
+        "name": "Truck-Bot",
+        "numOfToys": "1",
+        "firstRelease": "2004"
+    },
+    {
+        "name": "Alpha-Quintesson",
+        "numOfToys": "1",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Backstop",
+        "numOfToys": "3",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Blight (→ Blot)",
+        "numOfToys": "5",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Brakedown (→ Breakdown)",
+        "numOfToys": "4",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Brimstone",
+        "numOfToys": "4",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Brushguard",
+        "numOfToys": "2",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Camshaft",
+        "numOfToys": "3",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Chromia",
+        "numOfToys": "7",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Clocker",
+        "numOfToys": "2",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Darth Vader",
+        "numOfToys": "7",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Deathsaurus",
+        "numOfToys": "1",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Decepticharge",
+        "numOfToys": "1",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Duststorm",
+        "numOfToys": "2",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Evac",
+        "numOfToys": "6",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Fallback",
+        "numOfToys": "3",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Fast-Bot",
+        "numOfToys": "1",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Flamewar",
+        "numOfToys": "2",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Flareup",
+        "numOfToys": "1",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Frostbite",
+        "numOfToys": "1",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "General Grievous",
+        "numOfToys": "3",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Gorilla-Bot",
+        "numOfToys": "1",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Hardtop",
+        "numOfToys": "2",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Landquake",
+        "numOfToys": "2",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Leobreaker",
+        "numOfToys": "2",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Longrack",
+        "numOfToys": "1",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Luke Skywalker",
+        "numOfToys": "2",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Mudflap",
+        "numOfToys": "18",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Nexus Prime",
+        "numOfToys": "5",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Obi-Wan Kenobi",
+        "numOfToys": "7",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Omega Sentinel",
+        "numOfToys": "1",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Overcast",
+        "numOfToys": "3",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Overhaul",
+        "numOfToys": "1",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Reverb",
+        "numOfToys": "4",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Safeguard",
+        "numOfToys": "1",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Scattorshot",
+        "numOfToys": "5",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Six Shot	(→ Sixshot)",
+        "numOfToys": "1",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Six-Speed",
+        "numOfToys": "2",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Steamhammer",
+        "numOfToys": "4",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Strong Arm",
+        "numOfToys": "1",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Thunderblast",
+        "numOfToys": "2",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Undermine",
+        "numOfToys": "2",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Vector Prime",
+        "numOfToys": "5",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Virulent Clones",
+        "numOfToys": "1",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Wing Saber",
+        "numOfToys": "3",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Wreckloose",
+        "numOfToys": "1",
+        "firstRelease": "2005"
+    },
+    {
+        "name": "Anakin Skywalker",
+        "numOfToys": "8",
+        "firstRelease": "2006"
+    },
+    {
+        "name": "Anti-Blaze",
+        "numOfToys": "1",
+        "firstRelease": "2006"
+    },
+    {
+        "name": "Ark",
+        "numOfToys": "1",
+        "firstRelease": "2006"
+    },
+    {
+        "name": "Ascentor",
+        "numOfToys": "1",
+        "firstRelease": "2006"
+    },
+    {
+        "name": "Astro-Hook",
+        "numOfToys": "1",
+        "firstRelease": "2006"
+    },
+    {
+        "name": "Astro-Line",
+        "numOfToys": "1",
+        "firstRelease": "2006"
+    },
+    {
+        "name": "Astro-Sinker",
+        "numOfToys": "1",
+        "firstRelease": "2006"
+    },
+    {
+        "name": "Axalon",
+        "numOfToys": "1",
+        "firstRelease": "2006"
+    },
+    {
+        "name": "Backblast",
+        "numOfToys": "1",
+        "firstRelease": "2006"
+    },
+    {
+        "name": "Boba Fett",
+        "numOfToys": "1",
+        "firstRelease": "2006"
+    },
+    {
+        "name": "Cannonball",
+        "numOfToys": "3",
+        "firstRelease": "2006"
+    },
+    {
+        "name": "Chewbacca",
+        "numOfToys": "1",
+        "firstRelease": "2006"
+    },
+    {
+        "name": "Clone Pilot",
+        "numOfToys": "8",
+        "firstRelease": "2006"
+    },
+    {
+        "name": "Darth Maul",
+        "numOfToys": "2",
+        "firstRelease": "2006"
+    },
+    {
+        "name": "Deepdive",
+        "numOfToys": "1",
+        "firstRelease": "2006"
+    },
+    {
+        "name": "Drillbit",
+        "numOfToys": "1",
+        "firstRelease": "2006"
+    },
+    {
+        "name": "Emperor Palpatine",
+        "numOfToys": "2",
+        "firstRelease": "2006"
+    },
+    {
+        "name": "Energon Saber",
+        "numOfToys": "1",
+        "firstRelease": "2006"
+    },
+    {
+        "name": "Excellion",
+        "numOfToys": "2",
+        "firstRelease": "2006"
+    },
+    {
+        "name": "Han Solo",
+        "numOfToys": "1",
+        "firstRelease": "2006"
+    },
+    {
+        "name": "Hightail",
+        "numOfToys": "1",
+        "firstRelease": "2006"
+    },
+    {
+        "name": "Jango Fett",
+        "numOfToys": "1",
+        "firstRelease": "2006"
+    },
+    {
+        "name": "Knockdown",
+        "numOfToys": "3",
+        "firstRelease": "2006"
+    },
+    {
+        "name": "Kobushi",
+        "numOfToys": "1",
+        "firstRelease": "2006"
+    },
+    {
+        "name": "Landslide",
+        "numOfToys": "1",
+        "firstRelease": "2006"
+    },
+    {
+        "name": "Leo Prime",
+        "numOfToys": "2",
+        "firstRelease": "2006"
+    },
+    {
+        "name": "Lugnut",
+        "numOfToys": "5",
+        "firstRelease": "2006"
+    },
+    {
+        "name": "Monocle",
+        "numOfToys": "1",
+        "firstRelease": "2006"
+    },
+    {
+        "name": "Nemesis Breaker",
+        "numOfToys": "1",
+        "firstRelease": "2006"
+    },
+    {
+        "name": "Predaking",
+        "numOfToys": "11",
+        "firstRelease": "2006"
+    },
+    {
+        "name": "Primus",
+        "numOfToys": "3",
+        "firstRelease": "2006"
+    },
+    {
+        "name": "Scattorbrain",
+        "numOfToys": "1",
+        "firstRelease": "2006"
+    },
+    {
+        "name": "Scrap Iron",
+        "numOfToys": "2",
+        "firstRelease": "2006"
+    },
+    {
+        "name": "Scrapmetal",
+        "numOfToys": "2",
+        "firstRelease": "2006"
+    },
+    {
+        "name": "Scythe",
+        "numOfToys": "1",
+        "firstRelease": "2006"
+    },
+    {
+        "name": "Shortround",
+        "numOfToys": "1",
+        "firstRelease": "2006"
+    },
+    {
+        "name": "Side Swipe	(→ Sideswipe)",
+        "numOfToys": "1",
+        "firstRelease": "2006"
+    },
+    {
+        "name": "Starcatcher",
+        "numOfToys": "1",
+        "firstRelease": "2006"
+    },
+    {
+        "name": "Stripmine",
+        "numOfToys": "1",
+        "firstRelease": "2006"
+    },
+    {
+        "name": "Tarantulus	(→ Tarantulas)",
+        "numOfToys": "1",
+        "firstRelease": "2006"
+    },
+    {
+        "name": "Transmutate",
+        "numOfToys": "7",
+        "firstRelease": "2006"
+    },
+    {
+        "name": "Alpha Trion",
+        "numOfToys": "4",
+        "firstRelease": "2007"
+    },
+    {
+        "name": "AT-AT Driver",
+        "numOfToys": "1",
+        "firstRelease": "2007"
+    },
+    {
+        "name": "Autofire",
+        "numOfToys": "1",
+        "firstRelease": "2007"
+    },
+    {
+        "name": "Booster",
+        "numOfToys": "1",
+        "firstRelease": "2007"
+    },
+    {
+        "name": "Breakaway (→ Getaway)",
+        "numOfToys": "5",
+        "firstRelease": "2007"
+    },
+    {
+        "name": "Bug Bite",
+        "numOfToys": "1",
+        "firstRelease": "2007"
+    },
+    {
+        "name": "Clone Commander Cody",
+        "numOfToys": "1",
+        "firstRelease": "2007"
+    },
+    {
+        "name": "Digital Dagger",
+        "numOfToys": "1",
+        "firstRelease": "2007"
+    },
+    {
+        "name": "Dirt Rocket",
+        "numOfToys": "2",
+        "firstRelease": "2007"
+    },
+    {
+        "name": "Dropkick",
+        "numOfToys": "1",
+        "firstRelease": "2007"
+    },
+    {
+        "name": "Elita-One	(→ Elita-1)",
+        "numOfToys": "1",
+        "firstRelease": "2007"
+    },
+    {
+        "name": "Flash Bang",
+        "numOfToys": "1",
+        "firstRelease": "2007"
+    },
+    {
+        "name": "High Score",
+        "numOfToys": "1",
+        "firstRelease": "2007"
+    },
+    {
+        "name": "Longview",
+        "numOfToys": "1",
+        "firstRelease": "2007"
+    },
+    {
+        "name": "Lugnutz",
+        "numOfToys": "1",
+        "firstRelease": "2007"
+    },
+    {
+        "name": "Mace Windu",
+        "numOfToys": "1",
+        "firstRelease": "2007"
+    },
+    {
+        "name": "Meantime",
+        "numOfToys": "1",
+        "firstRelease": "2007"
+    },
+    {
+        "name": "Night Beat	(→ Nightbeat)",
+        "numOfToys": "1",
+        "firstRelease": "2007"
+    },
+    {
+        "name": "Power Up",
+        "numOfToys": "1",
+        "firstRelease": "2007"
+    },
+    {
+        "name": "Quick Bow",
+        "numOfToys": "1",
+        "firstRelease": "2007"
+    },
+    {
+        "name": "Saesee Tinn",
+        "numOfToys": "1",
+        "firstRelease": "2007"
+    },
+    {
+        "name": "Speed Dial",
+        "numOfToys": "1",
+        "firstRelease": "2007"
+    },
+    {
+        "name": "Spy Shot",
+        "numOfToys": "1",
+        "firstRelease": "2007"
+    },
+    {
+        "name": "Steel Wind",
+        "numOfToys": "1",
+        "firstRelease": "2007"
+    },
+    {
+        "name": "The Fallen",
+        "numOfToys": "9",
+        "firstRelease": "2007"
+    },
+    {
+        "name": "Tight Shot",
+        "numOfToys": "1",
+        "firstRelease": "2007"
+    },
+    {
+        "name": "Vector Sigma",
+        "numOfToys": "1",
+        "firstRelease": "2007"
+    },
+    {
+        "name": "Wire Tap",
+        "numOfToys": "1",
+        "firstRelease": "2007"
+    },
+    {
+        "name": "Zoom Out",
+        "numOfToys": "1",
+        "firstRelease": "2007"
+    },
+    {
+        "name": "Acid Storm",
+        "numOfToys": "4",
+        "firstRelease": "2008"
+    },
+    {
+        "name": "Bodyblock",
+        "numOfToys": "3",
+        "firstRelease": "2008"
+    },
+    {
+        "name": "Boltflash",
+        "numOfToys": "1",
+        "firstRelease": "2008"
+    },
+    {
+        "name": "Dispensor",
+        "numOfToys": "1",
+        "firstRelease": "2008"
+    },
+    {
+        "name": "Farsight",
+        "numOfToys": "1",
+        "firstRelease": "2008"
+    },
+    {
+        "name": "Flatfoot",
+        "numOfToys": "1",
+        "firstRelease": "2008"
+    },
+    {
+        "name": "Fracture",
+        "numOfToys": "6",
+        "firstRelease": "2008"
+    },
+    {
+        "name": "Grindcore",
+        "numOfToys": "1",
+        "firstRelease": "2008"
+    },
+    {
+        "name": "Hacker",
+        "numOfToys": "1",
+        "firstRelease": "2008"
+    },
+    {
+        "name": "Heavytread",
+        "numOfToys": "3",
+        "firstRelease": "2008"
+    },
+    {
+        "name": "Highline",
+        "numOfToys": "1",
+        "firstRelease": "2008"
+    },
+    {
+        "name": "Hot Zone (→ Hot Spot)",
+        "numOfToys": "2",
+        "firstRelease": "2008"
+    },
+    {
+        "name": "Hulk",
+        "numOfToys": "3",
+        "firstRelease": "2008"
+    },
+    {
+        "name": "Human Torch",
+        "numOfToys": "1",
+        "firstRelease": "2008"
+    },
+    {
+        "name": "Imperial Trooper",
+        "numOfToys": "1",
+        "firstRelease": "2008"
+    },
+    {
+        "name": "Iron Man",
+        "numOfToys": "9",
+        "firstRelease": "2008"
+    },
+    {
+        "name": "Lockdown",
+        "numOfToys": "20",
+        "firstRelease": "2008"
+    },
+    {
+        "name": "Midnighter",
+        "numOfToys": "1",
+        "firstRelease": "2008"
+    },
+    {
+        "name": "Photon",
+        "numOfToys": "1",
+        "firstRelease": "2008"
+    },
+    {
+        "name": "Salvage",
+        "numOfToys": "3",
+        "firstRelease": "2008"
+    },
+    {
+        "name": "Sentinel Prime",
+        "numOfToys": "12",
+        "firstRelease": "2008"
+    },
+    {
+        "name": "Spider-Man",
+        "numOfToys": "7",
+        "firstRelease": "2008"
+    },
+    {
+        "name": "Suppressor",
+        "numOfToys": "2",
+        "firstRelease": "2008"
+    },
+    {
+        "name": "TIE Pilot",
+        "numOfToys": "1",
+        "firstRelease": "2008"
+    },
+    {
+        "name": "Twitcher",
+        "numOfToys": "1",
+        "firstRelease": "2008"
+    },
+    {
+        "name": "Wingblade",
+        "numOfToys": "1",
+        "firstRelease": "2008"
+    },
+    {
+        "name": "Wolverine",
+        "numOfToys": "3",
+        "firstRelease": "2008"
+    },
+    {
+        "name": "Ahsoka Tano",
+        "numOfToys": "1",
+        "firstRelease": "2009"
+    },
+    {
+        "name": "Battle Droid",
+        "numOfToys": "4",
+        "firstRelease": "2009"
+    },
+    {
+        "name": "Blazemaster",
+        "numOfToys": "2",
+        "firstRelease": "2009"
+    },
+    {
+        "name": "Captain America",
+        "numOfToys": "2",
+        "firstRelease": "2009"
+    },
+    {
+        "name": "Captain Rex",
+        "numOfToys": "3",
+        "firstRelease": "2009"
+    },
+    {
+        "name": "Carnage",
+        "numOfToys": "1",
+        "firstRelease": "2009"
+    },
+    {
+        "name": "Darkwind",
+        "numOfToys": "1",
+        "firstRelease": "2009"
+    },
+    {
+        "name": "Ejector",
+        "numOfToys": "1",
+        "firstRelease": "2009"
+    },
+    {
+        "name": "Elita-1",
+        "numOfToys": "3",
+        "firstRelease": "2009"
+    },
+    {
+        "name": "Hardshell (→ Bombshell)",
+        "numOfToys": "3",
+        "firstRelease": "2009"
+    },
+    {
+        "name": "Heatwave",
+        "numOfToys": "17",
+        "firstRelease": "2009"
+    },
+    {
+        "name": "Kit Fisto",
+        "numOfToys": "1",
+        "firstRelease": "2009"
+    },
+    {
+        "name": "Landshark",
+        "numOfToys": "1",
+        "firstRelease": "2009"
+    },
+    {
+        "name": "Leozack",
+        "numOfToys": "1",
+        "firstRelease": "2009"
+    },
+    {
+        "name": "Magnaguard",
+        "numOfToys": "1",
+        "firstRelease": "2009"
+    },
+    {
+        "name": "Plo Kloon",
+        "numOfToys": "1",
+        "firstRelease": "2009"
+    },
+    {
+        "name": "Scalpel",
+        "numOfToys": "2",
+        "firstRelease": "2009"
+    },
+    {
+        "name": "Shock Trooper",
+        "numOfToys": "1",
+        "firstRelease": "2009"
+    },
+    {
+        "name": "Sweep",
+        "numOfToys": "1",
+        "firstRelease": "2009"
+    },
+    {
+        "name": "Thor",
+        "numOfToys": "2",
+        "firstRelease": "2009"
+    },
+    {
+        "name": "Axor",
+        "numOfToys": "1",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Backfire",
+        "numOfToys": "3",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Backwind",
+        "numOfToys": "1",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Banzaitron	(→ Banzai-Tron)",
+        "numOfToys": "1",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Beacon",
+        "numOfToys": "1",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Breacher",
+        "numOfToys": "1",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Cad Bane",
+        "numOfToys": "1",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Chopster",
+        "numOfToys": "1",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Clone Gunner",
+        "numOfToys": "1",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Cop-Tur",
+        "numOfToys": "1",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Crankstart",
+        "numOfToys": "2",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Darkmount	(→ Straxus)",
+        "numOfToys": "1",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Darkray",
+        "numOfToys": "1",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Darkstream",
+        "numOfToys": "1",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Deadlift",
+        "numOfToys": "1",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Dion",
+        "numOfToys": "1",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Doublepunch",
+        "numOfToys": "1",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Drift",
+        "numOfToys": "25",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Firetrap",
+        "numOfToys": "1",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Ghost Rider",
+        "numOfToys": "1",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Hailstorm",
+        "numOfToys": "1",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Jetblade",
+        "numOfToys": "1",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Krunix",
+        "numOfToys": "1",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Lieutenant Thire",
+        "numOfToys": "1",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Oil Pan",
+        "numOfToys": "1",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Pinpoint",
+        "numOfToys": "1",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Punch",
+        "numOfToys": "1",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Razorbeam",
+        "numOfToys": "1",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Sky-Bite",
+        "numOfToys": "1",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Skyburst",
+        "numOfToys": "2",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Slap Dash	(→ Slapdash)",
+        "numOfToys": "1",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Slice",
+        "numOfToys": "1",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Smolder",
+        "numOfToys": "1",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Spark",
+        "numOfToys": "1",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Sparkcrusher",
+        "numOfToys": "1",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Steelshot",
+        "numOfToys": "1",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Streetstar	(→ Streetwise)",
+        "numOfToys": "1",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Sunspot",
+        "numOfToys": "1",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Tailwhip",
+        "numOfToys": "1",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Throttler",
+        "numOfToys": "1",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Tomahawk",
+        "numOfToys": "1",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Trenchmouth",
+        "numOfToys": "1",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Turbomaster",
+        "numOfToys": "1",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "War Machine",
+        "numOfToys": "2",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Windburn",
+        "numOfToys": "1",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Y-Wing Pilot",
+        "numOfToys": "1",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Yoda",
+        "numOfToys": "1",
+        "firstRelease": "2010"
+    },
+    {
+        "name": "Airlift",
+        "numOfToys": "1",
+        "firstRelease": "2011"
+    },
+    {
+        "name": "Autobot Jazz",
+        "numOfToys": "1",
+        "firstRelease": "2011"
+    },
+    {
+        "name": "Axel Frazier",
+        "numOfToys": "1",
+        "firstRelease": "2011"
+    },
+    {
+        "name": "Big Hoss",
+        "numOfToys": "1",
+        "firstRelease": "2011"
+    },
+    {
+        "name": "Boulder",
+        "numOfToys": "9",
+        "firstRelease": "2011"
+    },
+    {
+        "name": "Charlie Burns",
+        "numOfToys": "1",
+        "firstRelease": "2011"
+    },
+    {
+        "name": "Chopsaw",
+        "numOfToys": "1",
+        "firstRelease": "2011"
+    },
+    {
+        "name": "Clone Captain Keeli",
+        "numOfToys": "1",
+        "firstRelease": "2011"
+    },
+    {
+        "name": "Clone Commander Wolffe",
+        "numOfToys": "1",
+        "firstRelease": "2011"
+    },
+    {
+        "name": "Cody Burns",
+        "numOfToys": "5",
+        "firstRelease": "2011"
+    },
+    {
+        "name": "Crowbar",
+        "numOfToys": "2",
+        "firstRelease": "2011"
+    },
+    {
+        "name": "Darksteel",
+        "numOfToys": "2",
+        "firstRelease": "2011"
+    },
+    {
+        "name": "Deep Dive	(→ Deepdive)",
+        "numOfToys": "1",
+        "firstRelease": "2011"
+    },
+    {
+        "name": "Energon Shock Sword",
+        "numOfToys": "1",
+        "firstRelease": "2011"
+    },
+    {
+        "name": "Fisitron (→ Ironfist)",
+        "numOfToys": "2",
+        "firstRelease": "2011"
+    },
+    {
+        "name": "Grappel	(→ Grapple)",
+        "numOfToys": "1",
+        "firstRelease": "2011"
+    },
+    {
+        "name": "Grimstone",
+        "numOfToys": "2",
+        "firstRelease": "2011"
+    },
+    {
+        "name": "Groundspike",
+        "numOfToys": "1",
+        "firstRelease": "2011"
+    },
+    {
+        "name": "Hatchet",
+        "numOfToys": "1",
+        "firstRelease": "2011"
+    },
+    {
+        "name": "Jack Tracker",
+        "numOfToys": "1",
+        "firstRelease": "2011"
+    },
+    {
+        "name": "Junkheap",
+        "numOfToys": "3",
+        "firstRelease": "2011"
+    },
+    {
+        "name": "Mindset",
+        "numOfToys": "1",
+        "firstRelease": "2011"
+    },
+    {
+        "name": "Minerva",
+        "numOfToys": "1",
+        "firstRelease": "2011"
+    },
+    {
+        "name": "Roller",
+        "numOfToys": "2",
+        "firstRelease": "2011"
+    },
+    {
+        "name": "Saesee Tiin",
+        "numOfToys": "1",
+        "firstRelease": "2011"
+    },
+    {
+        "name": "Sawyer Storm",
+        "numOfToys": "1",
+        "firstRelease": "2011"
+    },
+    {
+        "name": "Tailpipe",
+        "numOfToys": "1",
+        "firstRelease": "2011"
+    },
+    {
+        "name": "The Motor Master	(→ Motormaster)",
+        "numOfToys": "1",
+        "firstRelease": "2011"
+    },
+    {
+        "name": "Thunderhead",
+        "numOfToys": "1",
+        "firstRelease": "2011"
+    },
+    {
+        "name": "Top Spin",
+        "numOfToys": "1",
+        "firstRelease": "2011"
+    },
+    {
+        "name": "Toxitron",
+        "numOfToys": "1",
+        "firstRelease": "2011"
+    },
+    {
+        "name": "Trailcutter (→ Trailbreaker)",
+        "numOfToys": "4",
+        "firstRelease": "2011"
+    },
+    {
+        "name": "Undertow",
+        "numOfToys": "1",
+        "firstRelease": "2011"
+    },
+    {
+        "name": "Vehicon",
+        "numOfToys": "7",
+        "firstRelease": "2011"
+    },
+    {
+        "name": "Walker Cleveland",
+        "numOfToys": "2",
+        "firstRelease": "2011"
+    },
+    {
+        "name": "Airachnid",
+        "numOfToys": "3",
+        "firstRelease": "2012"
+    },
+    {
+        "name": "Anakin",
+        "numOfToys": "1",
+        "firstRelease": "2012"
+    },
+    {
+        "name": "Gigatron",
+        "numOfToys": "1",
+        "firstRelease": "2012"
+    },
+    {
+        "name": "Kick-Over	(→ Kick-Off)",
+        "numOfToys": "1",
+        "firstRelease": "2012"
+    },
+    {
+        "name": "Medix",
+        "numOfToys": "2",
+        "firstRelease": "2012"
+    },
+    {
+        "name": "Metalhawk",
+        "numOfToys": "1",
+        "firstRelease": "2012"
+    },
+    {
+        "name": "Motorbreath (→ Motormaster)",
+        "numOfToys": "4",
+        "firstRelease": "2012"
+    },
+    {
+        "name": "Optimus Maximus",
+        "numOfToys": "1",
+        "firstRelease": "2012"
+    },
+    {
+        "name": "Spraxus	(→ Straxus)",
+        "numOfToys": "1",
+        "firstRelease": "2012"
+    },
+    {
+        "name": "Thundertron",
+        "numOfToys": "1",
+        "firstRelease": "2012"
+    },
+    {
+        "name": "Vader",
+        "numOfToys": "1",
+        "firstRelease": "2012"
+    },
+    {
+        "name": "Acid Wing",
+        "numOfToys": "1",
+        "firstRelease": "2013"
+    },
+    {
+        "name": "Afterburst",
+        "numOfToys": "1",
+        "firstRelease": "2013"
+    },
+    {
+        "name": "Bitstream",
+        "numOfToys": "1",
+        "firstRelease": "2013"
+    },
+    {
+        "name": "Brake-Neck (→ Wildrider)",
+        "numOfToys": "3",
+        "firstRelease": "2013"
+    },
+    {
+        "name": "Chief Charlie Burns",
+        "numOfToys": "1",
+        "firstRelease": "2013"
+    },
+    {
+        "name": "Cincersaur",
+        "numOfToys": "1",
+        "firstRelease": "2013"
+    },
+    {
+        "name": "Doc Green",
+        "numOfToys": "1",
+        "firstRelease": "2013"
+    },
+    {
+        "name": "Dr. Morocco",
+        "numOfToys": "1",
+        "firstRelease": "2013"
+    },
+    {
+        "name": "Firestrike (→ Fireflight)",
+        "numOfToys": "2",
+        "firstRelease": "2013"
+    },
+    {
+        "name": "Graham Burns",
+        "numOfToys": "1",
+        "firstRelease": "2013"
+    },
+    {
+        "name": "Grimwing",
+        "numOfToys": "1",
+        "firstRelease": "2013"
+    },
+    {
+        "name": "Headlock",
+        "numOfToys": "1",
+        "firstRelease": "2013"
+    },
+    {
+        "name": "Hotlink",
+        "numOfToys": "1",
+        "firstRelease": "2013"
+    },
+    {
+        "name": "Impactor",
+        "numOfToys": "2",
+        "firstRelease": "2013"
+    },
+    {
+        "name": "Kade Burns",
+        "numOfToys": "2",
+        "firstRelease": "2013"
+    },
+    {
+        "name": "Lazerback",
+        "numOfToys": "1",
+        "firstRelease": "2013"
+    },
+    {
+        "name": "Lightstorm",
+        "numOfToys": "1",
+        "firstRelease": "2013"
+    },
+    {
+        "name": "Optimus Prim",
+        "numOfToys": "1",
+        "firstRelease": "2013"
+    },
+    {
+        "name": "Orion Pax",
+        "numOfToys": "1",
+        "firstRelease": "2013"
+    },
+    {
+        "name": "Predacon Rippersnapper",
+        "numOfToys": "1",
+        "firstRelease": "2013"
+    },
+    {
+        "name": "Quicksilver",
+        "numOfToys": "1",
+        "firstRelease": "2013"
+    },
+    {
+        "name": "Quickslinger (→ Slingshot)",
+        "numOfToys": "3",
+        "firstRelease": "2013"
+    },
+    {
+        "name": "Ripclaw",
+        "numOfToys": "3",
+        "firstRelease": "2013"
+    },
+    {
+        "name": "Skylynx",
+        "numOfToys": "1",
+        "firstRelease": "2013"
+    },
+    {
+        "name": "Slipstream",
+        "numOfToys": "5",
+        "firstRelease": "2013"
+    },
+    {
+        "name": "Soundblaster",
+        "numOfToys": "3",
+        "firstRelease": "2013"
+    },
+    {
+        "name": "Streetsmart",
+        "numOfToys": "2",
+        "firstRelease": "2013"
+    },
+    {
+        "name": "Sunder",
+        "numOfToys": "1",
+        "firstRelease": "2013"
+    },
+    {
+        "name": "Torox",
+        "numOfToys": "2",
+        "firstRelease": "2013"
+    },
+    {
+        "name": "Twinstrike (→ Sinnertwin)",
+        "numOfToys": "2",
+        "firstRelease": "2013"
+    },
+    {
+        "name": "Twintwist	(→ Twin Twist)",
+        "numOfToys": "1",
+        "firstRelease": "2013"
+    },
+    {
+        "name": "Ultra Mammoth (Magnus)",
+        "numOfToys": "1",
+        "firstRelease": "2013"
+    },
+    {
+        "name": "Vertebreak",
+        "numOfToys": "1",
+        "firstRelease": "2013"
+    },
+    {
+        "name": "Alpha Trizer",
+        "numOfToys": "1",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Bullhorn",
+        "numOfToys": "1",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Bullwark",
+        "numOfToys": "1",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Centuritron",
+        "numOfToys": "1",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Crackback",
+        "numOfToys": "1",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Crosscut",
+        "numOfToys": "1",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Death's Head",
+        "numOfToys": "1",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Derak",
+        "numOfToys": "1",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Devcon",
+        "numOfToys": "1",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Dread Pirate Crew",
+        "numOfToys": "1",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Eclipse",
+        "numOfToys": "1",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Farside",
+        "numOfToys": "1",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Flare Up",
+        "numOfToys": "1",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Floodgate",
+        "numOfToys": "1",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Freefall",
+        "numOfToys": "1",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Freezeout",
+        "numOfToys": "2",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Ginrai",
+        "numOfToys": "1",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Goldfire	(→ Goldbug)",
+        "numOfToys": "1",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Groundbuster",
+        "numOfToys": "2",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Hangnail",
+        "numOfToys": "1",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Hemocron",
+        "numOfToys": "1",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Iquanox",
+        "numOfToys": "1",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Ironeye",
+        "numOfToys": "1",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Lazerbolt",
+        "numOfToys": "1",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Liftoff",
+        "numOfToys": "1",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Lugmutt",
+        "numOfToys": "1",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Mollox",
+        "numOfToys": "1",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Nosedive",
+        "numOfToys": "1",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Pirate Hunter",
+        "numOfToys": "1",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Power Surge",
+        "numOfToys": "1",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Roadhound",
+        "numOfToys": "1",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Rot Gut",
+        "numOfToys": "1",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Roughneck",
+        "numOfToys": "1",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Scorn",
+        "numOfToys": "6",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Scrapmaster",
+        "numOfToys": "1",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Skrapnel	(→ Shrapnel)",
+        "numOfToys": "1",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Slash",
+        "numOfToys": "3",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Slipstrike",
+        "numOfToys": "1",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Slug (→ Slag)",
+        "numOfToys": "13",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Stinger",
+        "numOfToys": "5",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Stronghorn",
+        "numOfToys": "1",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Venin",
+        "numOfToys": "1",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Volcanicon",
+        "numOfToys": "1",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Wide Load",
+        "numOfToys": "1",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Windblade",
+        "numOfToys": "7",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Windshear",
+        "numOfToys": "1",
+        "firstRelease": "2014"
+    },
+    {
+        "name": "Alpha Bravo",
+        "numOfToys": "1",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Arachnoids",
+        "numOfToys": "1",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Autobot Drift",
+        "numOfToys": "2",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Autobot Spike",
+        "numOfToys": "1",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Bisk",
+        "numOfToys": "5",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Burnout",
+        "numOfToys": "1",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Carzap",
+        "numOfToys": "1",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Clampdown",
+        "numOfToys": "2",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Cline",
+        "numOfToys": "1",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Dia",
+        "numOfToys": "1",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Dr. Arkeville",
+        "numOfToys": "1",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Dragonus",
+        "numOfToys": "3",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Filch",
+        "numOfToys": "1",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Firefly",
+        "numOfToys": "2",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "G.B. Blackrock",
+        "numOfToys": "1",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Galva Convoy",
+        "numOfToys": "1",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Headmaster",
+        "numOfToys": "1",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "High Tide",
+        "numOfToys": "2",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Lift-Ticket",
+        "numOfToys": "1",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Lio Convoy",
+        "numOfToys": "1",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Megatronus",
+        "numOfToys": "4",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Nacelle",
+        "numOfToys": "1",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Nebulon",
+        "numOfToys": "1",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Nightbird",
+        "numOfToys": "1",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Nova Prime",
+        "numOfToys": "1",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Offroad",
+        "numOfToys": "1",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Oilmaster",
+        "numOfToys": "1",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Quillfire",
+        "numOfToys": "3",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Robot Master",
+        "numOfToys": "1",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Sandsting",
+        "numOfToys": "2",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Sawback",
+        "numOfToys": "3",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Serpentor",
+        "numOfToys": "1",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Shakar",
+        "numOfToys": "1",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Springload",
+        "numOfToys": "2",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Stepper",
+        "numOfToys": "1",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Terrashock",
+        "numOfToys": "1",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Thunderhoof",
+        "numOfToys": "6",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Twinferno (→ Doublecross)",
+        "numOfToys": "3",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Underbit",
+        "numOfToys": "1",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Underbite",
+        "numOfToys": "3",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Velocirazor",
+        "numOfToys": "2",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Viper",
+        "numOfToys": "1",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Warpat",
+        "numOfToys": "1",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Waruders",
+        "numOfToys": "1",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Zaptrap",
+        "numOfToys": "1",
+        "firstRelease": "2015"
+    },
+    {
+        "name": "Afterbreaker",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Anvil",
+        "numOfToys": "3",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Apex",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "B.A.T.",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Back",
+        "numOfToys": "2",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Bashbreaker",
+        "numOfToys": "3",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Brake Neck",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Clobber",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Crashbash",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Crazybolt",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Darkmoon",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Emissary",
+        "numOfToys": "2",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Enigma of Combination",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Forth",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Furos",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Glacius",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Grabuge",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Hyperfire",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Infinitus",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Jumpstream",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Lancelon",
+        "numOfToys": "3",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Lightsteed",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Liokaiser",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Lord Doomitron",
+        "numOfToys": "3",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Loudmouth",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Major Mayhem",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Marissa Faireborn",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Monxo",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Nucleon",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Old Snake",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Paralon",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Pyra Magna",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Rust Dust",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Sawtooth",
+        "numOfToys": "2",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Scrapheap",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Scrounge",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Seaclamp",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Shatterspike",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Skullsmasher	(→ Skullcruncher)",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Skytread",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Soverign",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Stasis Pod",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Stormclash",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Stripes",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Swelter",
+        "numOfToys": "3",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Terri-Bull",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Teslor",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Tricerashot",
+        "numOfToys": "2",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Twin Cast",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Undertone",
+        "numOfToys": "3",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Unit-3",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Victorion",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Windstrike",
+        "numOfToys": "3",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Wolfwire	(→ Weirdwolf)",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Xort",
+        "numOfToys": "1",
+        "firstRelease": "2016"
+    },
+    {
+        "name": "Blastwave",
+        "numOfToys": "1",
+        "firstRelease": "2017"
+    },
+    {
+        "name": "Blunderbuss",
+        "numOfToys": "1",
+        "firstRelease": "2017"
+    },
+    {
+        "name": "Chasm",
+        "numOfToys": "1",
+        "firstRelease": "2017"
+    },
+    {
+        "name": "Convex",
+        "numOfToys": "1",
+        "firstRelease": "2017"
+    },
+    {
+        "name": "Daburu",
+        "numOfToys": "1",
+        "firstRelease": "2017"
+    },
+    {
+        "name": "Diac",
+        "numOfToys": "1",
+        "firstRelease": "2017"
+    },
+    {
+        "name": "Doomshot",
+        "numOfToys": "1",
+        "firstRelease": "2017"
+    },
+    {
+        "name": "Firedrive",
+        "numOfToys": "1",
+        "firstRelease": "2017"
+    },
+    {
+        "name": "Fireplug",
+        "numOfToys": "1",
+        "firstRelease": "2017"
+    },
+    {
+        "name": "Gatorface",
+        "numOfToys": "1",
+        "firstRelease": "2017"
+    },
+    {
+        "name": "Great Byte",
+        "numOfToys": "1",
+        "firstRelease": "2017"
+    },
+    {
+        "name": "Ominus",
+        "numOfToys": "1",
+        "firstRelease": "2017"
+    },
+    {
+        "name": "Overboard",
+        "numOfToys": "1",
+        "firstRelease": "2017"
+    },
+    {
+        "name": "Ptero",
+        "numOfToys": "1",
+        "firstRelease": "2017"
+    },
+    {
+        "name": "Revolver",
+        "numOfToys": "1",
+        "firstRelease": "2017"
+    },
+    {
+        "name": "Shuffler",
+        "numOfToys": "1",
+        "firstRelease": "2017"
+    },
+    {
+        "name": "Sqweeks",
+        "numOfToys": "1",
+        "firstRelease": "2017"
+    },
+    {
+        "name": "Stormshot",
+        "numOfToys": "1",
+        "firstRelease": "2017"
+    },
+    {
+        "name": "Stuntwing",
+        "numOfToys": "1",
+        "firstRelease": "2017"
+    },
+    {
+        "name": "Trickout",
+        "numOfToys": "1",
+        "firstRelease": "2017"
+    }
+]
