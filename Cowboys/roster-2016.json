@@ -1,0 +1,641 @@
+[{
+	"number": "76",
+	"playerName": "Richard Ash",
+	"position": "DT",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1992-08-04",
+	"college": "Western Michigan"
+}, {
+	"number": "--",
+	"playerName": "Chidobe Awuzie",
+	"position": "DB",
+	"g": "0",
+	"gs": "0",
+	"birthday": "--",
+	"college": "Colorado"
+}, {
+	"number": "5",
+	"playerName": "Dan Bailey",
+	"position": "K",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1988-01-26",
+	"college": "Oklahoma State"
+}, {
+	"number": "11",
+	"playerName": "Cole Beasley",
+	"position": "WR",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1989-04-26",
+	"college": "Southern Methodist"
+}, {
+	"number": "--",
+	"playerName": "Byron Bell",
+	"position": "OT",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1989-01-17",
+	"college": "New Mexico"
+}, {
+	"number": "--",
+	"playerName": "Robert Blanton",
+	"position": "DB",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1989-09-07",
+	"college": "Notre Dame"
+}, {
+	"number": "30",
+	"playerName": "Anthony Brown",
+	"position": "DB",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1993-12-15",
+	"college": "Purdue"
+}, {
+	"number": "--",
+	"playerName": "Noah Brown",
+	"position": "WR",
+	"g": "0",
+	"gs": "0",
+	"birthday": "--",
+	"college": "Ohio State"
+}, {
+	"number": "88",
+	"playerName": "Dez Bryant",
+	"position": "WR",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1988-11-04",
+	"college": "Oklahoma State"
+}, {
+	"number": "19",
+	"playerName": "Brice Butler",
+	"position": "WR",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1990-01-29",
+	"college": "San Diego State"
+}, {
+	"number": "--",
+	"playerName": "Jordan Carrell",
+	"position": "DT",
+	"g": "0",
+	"gs": "0",
+	"birthday": "--",
+	"college": "Colorado"
+}, {
+	"number": "--",
+	"playerName": "Nolan Carroll",
+	"position": "DB",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1987-01-18",
+	"college": "Maryland"
+}, {
+	"number": "--",
+	"playerName": "Taco Charlton",
+	"position": "DE",
+	"g": "0",
+	"gs": "0",
+	"birthday": "--",
+	"college": "Michigan"
+}, {
+	"number": "63",
+	"playerName": "Emmett Cleary",
+	"position": "OT",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1990-04-27",
+	"college": "Boston College"
+}, {
+	"number": "71",
+	"playerName": "La'el Collins",
+	"position": "OT",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1993-07-26",
+	"college": "Louisiana State"
+}, {
+	"number": "96",
+	"playerName": "Maliek Collins",
+	"position": "DT",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1995-04-08",
+	"college": "Nebraska"
+}, {
+	"number": "64",
+	"playerName": "Jonathan Cooper",
+	"position": "OG",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1990-01-19",
+	"college": "North Carolina"
+}, {
+	"number": "98",
+	"playerName": "Tyrone Crawford",
+	"position": "DE",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1989-11-22",
+	"college": "Boise State"
+}, {
+	"number": "--",
+	"playerName": "Clay DeBord",
+	"position": "OT",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1992-05-13",
+	"college": "Eastern Washington"
+}, {
+	"number": "--",
+	"playerName": "Lance Dunbar",
+	"position": "RB",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1990-01-25",
+	"college": "North Texas"
+}, {
+	"number": "--",
+	"playerName": "Kadeem Edwards",
+	"position": "OG",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1991-01-24",
+	"college": "Tennessee State"
+}, {
+	"number": "21",
+	"playerName": "Ezekiel Elliott",
+	"position": "RB",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1995-07-22",
+	"college": "Ohio State"
+}, {
+	"number": "35",
+	"playerName": "Kavon Frazier",
+	"position": "DB",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1994-08-11",
+	"college": "Central Michigan"
+}, {
+	"number": "72",
+	"playerName": "Travis Frederick",
+	"position": "C",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1991-03-18",
+	"college": "Wisconsin"
+}, {
+	"number": "--",
+	"playerName": "Rico Gathers",
+	"position": "TE",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1994-01-07",
+	"college": "Baylor"
+}, {
+	"number": "--",
+	"playerName": "Jeremiah George",
+	"position": "LB",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1992-01-24",
+	"college": "Iowa State"
+}, {
+	"number": "79",
+	"playerName": "Chaz Green",
+	"position": "OT",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1992-04-08",
+	"college": "Florida"
+}, {
+	"number": "94",
+	"playerName": "Randy Gregory",
+	"position": "LB",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1992-11-23",
+	"college": "Nebraska"
+}, {
+	"number": "--",
+	"playerName": "Connor Hamlett",
+	"position": "TE",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1992-04-12",
+	"college": "Oregon State"
+}, {
+	"number": "84",
+	"playerName": "James Hanna",
+	"position": "TE",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1989-07-14",
+	"college": "Oklahoma"
+}, {
+	"number": "38",
+	"playerName": "Jeff Heath",
+	"position": "DB",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1991-05-14",
+	"college": "Saginaw Valley State"
+}, {
+	"number": "59",
+	"playerName": "Anthony Hitchens",
+	"position": "LB",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1992-06-10",
+	"college": "Iowa"
+}, {
+	"number": "95",
+	"playerName": "David Irving",
+	"position": "DT",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1993-08-18",
+	"college": "Iowa State"
+}, {
+	"number": "--",
+	"playerName": "Sam Irwin-Hill",
+	"position": "P",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1990-10-10",
+	"college": "Arkansas"
+}, {
+	"number": "--",
+	"playerName": "Joey Ivie",
+	"position": "DT",
+	"g": "0",
+	"gs": "0",
+	"birthday": "--",
+	"college": "Florida"
+}, {
+	"number": "--",
+	"playerName": "Andy Jones",
+	"position": "WR",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1994-06-28",
+	"college": "Jacksonville"
+}, {
+	"number": "31",
+	"playerName": "Byron Jones",
+	"position": "DB",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1992-09-26",
+	"college": "Connecticut"
+}, {
+	"number": "6",
+	"playerName": "Chris Jones",
+	"position": "P",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1989-07-21",
+	"college": "Carson-Newman"
+}, {
+	"number": "--",
+	"playerName": "Lenny Jones",
+	"position": "LB",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1991-08-08",
+	"college": "Nevada"
+}, {
+	"number": "91",
+	"playerName": "L.P. Ladouceur",
+	"position": "LS",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1981-03-13",
+	"college": "California"
+}, {
+	"number": "90",
+	"playerName": "Demarcus Lawrence",
+	"position": "DE",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1992-04-28",
+	"college": "Boise State"
+}, {
+	"number": "50",
+	"playerName": "Sean Lee",
+	"position": "LB",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1986-07-22",
+	"college": "Penn State"
+}, {
+	"number": "--",
+	"playerName": "Jourdan Lewis",
+	"position": "DB",
+	"g": "0",
+	"gs": "0",
+	"birthday": "--",
+	"college": "Michigan"
+}, {
+	"number": "73",
+	"playerName": "Joe Looney",
+	"position": "OG",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1990-08-31",
+	"college": "Wake Forest"
+}, {
+	"number": "--",
+	"playerName": "John Lotulelei",
+	"position": "LB",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1991-12-04",
+	"college": "Nevada-Las Vegas"
+}, {
+	"number": "70",
+	"playerName": "Zack Martin",
+	"position": "OT",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1990-11-20",
+	"college": "Notre Dame"
+}, {
+	"number": "93",
+	"playerName": "Benson Mayowa",
+	"position": "DE",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1991-08-03",
+	"college": "Idaho"
+}, {
+	"number": "55",
+	"playerName": "Rolando McClain",
+	"position": "LB",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1989-07-14",
+	"college": "Alabama"
+}, {
+	"number": "--",
+	"playerName": "Quincy McDuffie",
+	"position": "WR",
+	"g": "0",
+	"gs": "0",
+	"birthday": "--",
+	"college": "Central Florida"
+}, {
+	"number": "20",
+	"playerName": "Darren McFadden",
+	"position": "RB",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1987-08-27",
+	"college": "Arkansas"
+}, {
+	"number": "23",
+	"playerName": "Leon McFadden",
+	"position": "DB",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1990-10-26",
+	"college": "San Diego State"
+}, {
+	"number": "--",
+	"playerName": "Jeremiah McKinnon",
+	"position": "DB",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1993-06-29",
+	"college": "Florida International"
+}, {
+	"number": "--",
+	"playerName": "Damontre Moore",
+	"position": "DE",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1992-09-11",
+	"college": "Texas A&M"
+}, {
+	"number": "17",
+	"playerName": "Kellen Moore",
+	"position": "QB",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1989-07-12",
+	"college": "Boise State"
+}, {
+	"number": "46",
+	"playerName": "Alfred Morris",
+	"position": "RB",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1988-12-12",
+	"college": "Florida Atlantic"
+}, {
+	"number": "40",
+	"playerName": "James Morris",
+	"position": "LB",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1991-11-20",
+	"college": "Iowa"
+}, {
+	"number": "--",
+	"playerName": "Uzoma Nwachukwu",
+	"position": "WR",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1990-12-15",
+	"college": "Texas A&M"
+}, {
+	"number": "53",
+	"playerName": "Mark Nzeocha",
+	"position": "LB",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1990-01-01",
+	"college": "Wyoming"
+}, {
+	"number": "--",
+	"playerName": "Stephen Paea",
+	"position": "DT",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1988-05-11",
+	"college": "Oregon State"
+}, {
+	"number": "4",
+	"playerName": "Dak Prescott",
+	"position": "QB",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1993-07-29",
+	"college": "Mississippi State"
+}, {
+	"number": "32",
+	"playerName": "Orlando Scandrick",
+	"position": "DB",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1987-02-10",
+	"college": "Boise State"
+}, {
+	"number": "--",
+	"playerName": "Sammy Seamster",
+	"position": "DB",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1991-02-05",
+	"college": "Middle Tennessee State"
+}, {
+	"number": "--",
+	"playerName": "Jameill Showers",
+	"position": "QB",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1991-09-06",
+	"college": "Texas-El Paso"
+}, {
+	"number": "54",
+	"playerName": "Jaylon Smith",
+	"position": "LB",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1995-06-14",
+	"college": "Notre Dame"
+}, {
+	"number": "41",
+	"playerName": "Keith Smith",
+	"position": "LB",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1992-04-08",
+	"college": "San Jose State"
+}, {
+	"number": "--",
+	"playerName": "Rod Smith",
+	"position": "RB",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1992-01-10",
+	"college": "Ohio State"
+}, {
+	"number": "77",
+	"playerName": "Tyron Smith",
+	"position": "OT",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1990-12-12",
+	"college": "Southern California"
+}, {
+	"number": "87",
+	"playerName": "Geoff Swaim",
+	"position": "TE",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1993-09-16",
+	"college": "Texas"
+}, {
+	"number": "--",
+	"playerName": "Ryan Switzer",
+	"position": "WR",
+	"g": "0",
+	"gs": "0",
+	"birthday": "--",
+	"college": "North Carolina"
+}, {
+	"number": "99",
+	"playerName": "Charles Tapper",
+	"position": "DE",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1993-05-07",
+	"college": "Oklahoma"
+}, {
+	"number": "--",
+	"playerName": "Duke Thomas",
+	"position": "DB",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1994-05-21",
+	"college": "Texas"
+}, {
+	"number": "92",
+	"playerName": "Cedric Thornton",
+	"position": "DT",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1988-06-21",
+	"college": "Southern Arkansas"
+}, {
+	"number": "--",
+	"playerName": "Marquez White",
+	"position": "DB",
+	"g": "0",
+	"gs": "0",
+	"birthday": "--",
+	"college": "Florida State"
+}, {
+	"number": "13",
+	"playerName": "Lucky Whitehead",
+	"position": "WR",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1992-06-02",
+	"college": "Florida Atlantic"
+}, {
+	"number": "51",
+	"playerName": "Kyle Wilber",
+	"position": "LB",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1989-04-26",
+	"college": "Wake Forest"
+}, {
+	"number": "83",
+	"playerName": "Terrance Williams",
+	"position": "WR",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1989-09-08",
+	"college": "Baylor"
+}, {
+	"number": "57",
+	"playerName": "Damien Wilson",
+	"position": "LB",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1993-05-28",
+	"college": "Minnesota"
+}, {
+	"number": "82",
+	"playerName": "Jason Witten",
+	"position": "TE",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1982-05-06",
+	"college": "Tennessee"
+}, {
+	"number": "--",
+	"playerName": "Zach Wood",
+	"position": "DE",
+	"g": "0",
+	"gs": "0",
+	"birthday": "1993-01-10",
+	"college": "Southern Methodist"
+}, {
+	"number": "--",
+	"playerName": "Xavier Woods",
+	"position": "DB",
+	"g": "0",
+	"gs": "0",
+	"birthday": "--",
+	"college": "Louisiana Tech"
+}]
